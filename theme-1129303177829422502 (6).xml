@@ -1,0 +1,2273 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:defaultwidgetversion='2' b:layoutsVersion='3' b:responsive='true' b:templateUrl='ommuruga.xml' b:templateVersion='5.5.0' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale.language' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  
+  <head>
+    <script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4724455892440922'/>
+
+  <b:if cond='data:view.isMultipleItems'>
+    <b:if cond='data:view.isHomepage'>
+      <title><data:blog.title.escaped/> | Premium Real Estate &amp; Valuation in Trichy</title>
+      <b:elseif cond='data:view.search.query'/>
+      <title>Search: <data:view.search.query/> | <data:blog.title.escaped/></title>
+      <b:elseif cond='data:view.search.label'/>
+      <title><data:blog.pageName.escaped/> Properties in Trichy | <data:blog.title.escaped/></title>
+      <b:else/>
+      <title>Real Estate Blog | <data:blog.title.escaped/></title>
+    </b:if>
+    <b:elseif cond='data:view.isError'/>
+    <title>404 Page Not Found | <data:blog.title.escaped/></title>
+    <b:else/>
+    <title><data:blog.pageName.escaped/> | <data:blog.title.escaped/></title>
+  </b:if>
+
+  <meta charset='UTF-8'/>
+  <meta content='width=device-width, initial-scale=1, maximum-scale=5' name='viewport'/>
+  <meta content='yes' name='mobile-web-app-capable'/>
+  <meta content='yes' name='apple-mobile-web-app-capable'/>
+  <meta content='Om Muruga' name='apple-mobile-web-app-title'/>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <meta content='max-image-preview:large' name='robots'/>
+  <link expr:href='data:blog.url.canonical' rel='canonical'/>
+
+  <b:if cond='data:view.isSearch'>
+    <meta content='noindex, nofollow' name='robots'/>
+  </b:if>
+
+  <meta content='IN-TN' name='geo.region'/>
+  <meta content='Trichy' name='geo.placename'/>
+  <meta content='10.7905;78.7047' name='geo.position'/>
+
+  <link as='font' crossorigin='anonymous' href='https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtM.woff2' rel='preload' type='font/woff2'/>
+  <link as='font' crossorigin='anonymous' href='https://fonts.gstatic.com/s/segoeui/v1/SegoeUI.woff2' rel='preload' type='font/woff2'/>
+
+  <meta content='8XN5YZqK5UlN0rtrGbNgMLRJKmrwbSRV0qO5wrKzaew' name='google-site-verification'/>
+  <meta content='75434C839311237D0592BC4C904E72BD' name='msvalidate.01'/>
+
+  <script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-2EE2F2CJYS'/>
+  <script>
+    //<![CDATA[
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-2EE2F2CJYS');
+    //]]>
+  </script>
+
+  <meta expr:content='data:blog.pageName' property='og:title'/>
+  <meta expr:content='data:blog.metaDescription ?: data:post.snippet' property='og:description'/>
+  <meta expr:content='data:blog.url' property='og:url'/>
+  <meta expr:content='data:post.featuredImage ?: &quot;https://images.unsplash.com/photo-1600596542815-ffad4c1539a9&quot;' property='og:image'/>
+  <meta content='website' property='og:type'/>
+
+  <meta content='summary_large_image' name='twitter:card'/>
+  <meta expr:content='data:blog.pageName' name='twitter:title'/>
+  <meta expr:content='data:blog.metaDescription ?: data:post.snippet' name='twitter:description'/>
+  <meta expr:content='data:post.featuredImage ?: &quot;https://images.unsplash.com/photo-1600596542815-ffad4c1539a9&quot;' name='twitter:image'/>
+
+  <b:if cond='!data:view.isError'>
+    <meta expr:content='data:blog.metaDescription ?: data:post.snippet' name='description'/>
+    <b:if cond='data:view.isSingleItem'>
+      <meta expr:content='data:post.title + &quot; Trichy property investment DTCP approved Om Muruga&quot;' name='keywords'/>
+    <b:else/>
+      <meta content='Real Estate Trichy, Premium Plots, DTCP Approved, IBBI Valuation, Om Muruga Group, Commercial Real Estate Tiruchirappalli' name='keywords'/>
+    </b:if>
+    <meta content='#1a1a2e' name='theme-color'/>
+  </b:if> 
+
+  <b:if cond='data:view.isHomepage'>
+    <script type='application/ld+json'>
+    {
+      &quot;@context&quot;: &quot;https://schema.org&quot;,
+      &quot;@type&quot;: &quot;RealEstateAgent&quot;,
+      &quot;name&quot;: &quot;Om Muruga Group of Companies&quot;,
+      &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFAj8iQ6WBw9Y2EjsLVcwUPydEA7NkviK_vYwFjV72sJRXa6LgjGeG5IpE6LUu5gCDylo9N-uADF3x3SeOSSfy0r05HE_29nfKuEUoxmnS5GZuKZErWozA0-gMyEYitWLbJQ7JnmzcaFEU_WkBnxFfGNhXaeM0WcmYd5bCzToaomT1p35NEXGLovZpdPg/s4350/PNG.png&quot;,
+      &quot;@id&quot;: &quot;<data:blog.homepageUrl.canonical/>&quot;,
+      &quot;url&quot;: &quot;<data:blog.homepageUrl.canonical/>&quot;,
+      &quot;telephone&quot;: &quot;+917373036360&quot;,
+      &quot;email&quot;: &quot;omc.3chy@gmail.com&quot;,
+      &quot;address&quot;: {
+        &quot;@type&quot;: &quot;PostalAddress&quot;,
+        &quot;addressLocality&quot;: &quot;Tiruchirappalli&quot;,
+        &quot;addressRegion&quot;: &quot;Tamil Nadu&quot;,
+        &quot;addressCountry&quot;: &quot;IN&quot;
+      },
+      &quot;priceRange&quot;: &quot;$$$&quot;
+    }
+    </script>
+
+    <script type='application/ld+json'>
+    {
+      &quot;@context&quot;: &quot;https://schema.org&quot;,
+      &quot;@graph&quot;: [{
+        &quot;@type&quot;: &quot;Organization&quot;,
+        &quot;@id&quot;: &quot;<data:blog.homepageUrl.canonical/>#organization&quot;,
+        &quot;name&quot;: &quot;Om Muruga Group of Companies&quot;,
+        &quot;url&quot;: &quot;<data:blog.homepageUrl.canonical/>&quot;,
+        &quot;logo&quot;: &quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFAj8iQ6WBw9Y2EjsLVcwUPydEA7NkviK_vYwFjV72sJRXa6LgjGeG5IpE6LUu5gCDylo9N-uADF3x3SeOSSfy0r05HE_29nfKuEUoxmnS5GZuKZErWozA0-gMyEYitWLbJQ7JnmzcaFEU_WkBnxFfGNhXaeM0WcmYd5bCzToaomT1p35NEXGLovZpdPg/s4350/PNG.png&quot;
+      },{
+        &quot;@type&quot;: &quot;WebSite&quot;,
+        &quot;@id&quot;: &quot;<data:blog.homepageUrl.canonical/>#website&quot;,
+        &quot;url&quot;: &quot;<data:blog.homepageUrl.canonical/>&quot;,
+        &quot;name&quot;: &quot;<data:blog.title/>&quot;,
+        &quot;publisher&quot;: { &quot;@id&quot;: &quot;<data:blog.homepageUrl.canonical/>#organization&quot; },
+        &quot;potentialAction&quot;: {
+          &quot;@type&quot;: &quot;SearchAction&quot;,
+          &quot;target&quot;: &quot;<data:blog.homepageUrl.canonical/>search?q={search_term_string}&quot;,
+          &quot;query-input&quot;: &quot;required name=search_term_string&quot;
+        }
+      },{
+        &quot;@type&quot;: &quot;WebPage&quot;,
+        &quot;@id&quot;: &quot;<data:blog.homepageUrl.canonical/>#webpage&quot;,
+        &quot;url&quot;: &quot;<data:blog.homepageUrl.canonical/>&quot;,
+        &quot;name&quot;: &quot;<data:blog.title/> | Premium Real Estate &amp; Valuation in Trichy&quot;,
+        &quot;isPartOf&quot;: { &quot;@id&quot;: &quot;<data:blog.homepageUrl.canonical/>#website&quot; },
+        &quot;about&quot;: { &quot;@id&quot;: &quot;<data:blog.homepageUrl.canonical/>#organization&quot; }
+      }]
+    }
+    </script>
+  </b:if>
+  
+  <b:if cond='data:view.isSingleItem'>
+    <script type='application/ld+json'>
+    {
+      &quot;@context&quot;: &quot;https://schema.org&quot;,
+      &quot;@type&quot;: &quot;RealEstateListing&quot;,
+      &quot;name&quot;: &quot;<data:post.title/>&quot;,
+      &quot;description&quot;: &quot;<data:blog.metaDescription/>&quot;,
+      &quot;url&quot;: &quot;<data:post.url.canonical/>&quot;,
+      &quot;offers&quot;: {
+        &quot;@type&quot;: &quot;Offer&quot;,
+        &quot;priceCurrency&quot;: &quot;INR&quot;,
+        &quot;availability&quot;: &quot;https://schema.org/InStock&quot;
+      }
+    }
+    </script>
+
+    <script type='application/ld+json'>
+    {
+      &quot;@context&quot;: &quot;https://schema.org&quot;,
+      &quot;@type&quot;: &quot;Article&quot;,
+      &quot;headline&quot;: &quot;<data:post.title/>&quot;,
+      &quot;description&quot;: &quot;<data:blog.metaDescription/>&quot;,
+      &quot;image&quot;: &quot;<data:post.featuredImage/>&quot;,
+      &quot;mainEntityOfPage&quot;: {
+        &quot;@type&quot;: &quot;WebPage&quot;,
+        &quot;@id&quot;: &quot;<data:post.url.canonical/>&quot;
+      },
+      &quot;publisher&quot;: {
+        &quot;@type&quot;: &quot;Organization&quot;,
+        &quot;name&quot;: &quot;Om Muruga Group of Companies&quot;,
+        &quot;logo&quot;: {
+          &quot;@type&quot;: &quot;ImageObject&quot;,
+          &quot;url&quot;: &quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFAj8iQ6WBw9Y2EjsLVcwUPydEA7NkviK_vYwFjV72sJRXa6LgjGeG5IpE6LUu5gCDylo9N-uADF3x3SeOSSfy0r05HE_29nfKuEUoxmnS5GZuKZErWozA0-gMyEYitWLbJQ7JnmzcaFEU_WkBnxFfGNhXaeM0WcmYd5bCzToaomT1p35NEXGLovZpdPg/s4350/PNG.png&quot;
+        }
+      },
+      &quot;speakable&quot;: {
+        &quot;@type&quot;: &quot;SpeakableSpecification&quot;,
+        &quot;cssSelector&quot;: [&quot;.post-title&quot;, &quot;.post-body&quot;]
+      }
+    }
+    </script>
+    
+    <script type='application/ld+json'>
+    {
+     &quot;@context&quot;: &quot;https://schema.org&quot;,
+     &quot;@type&quot;: &quot;BreadcrumbList&quot;,
+     &quot;itemListElement&quot;: [{
+       &quot;@type&quot;: &quot;ListItem&quot;,
+       &quot;position&quot;: 1,
+       &quot;name&quot;: &quot;Home&quot;,
+       &quot;item&quot;: &quot;<data:blog.homepageUrl.canonical/>&quot;
+     },{
+       &quot;@type&quot;: &quot;ListItem&quot;,
+       &quot;position&quot;: 2,
+       &quot;name&quot;: &quot;<data:post.title/>&quot;,
+       &quot;item&quot;: &quot;<data:post.url.canonical/>&quot;
+     }]
+    }
+    </script>
+    
+  </b:if>
+
+  <link href='https://unpkg.com/aos@2.3.4/dist/aos.css' media='print' onload='this.media=&quot;all&quot;' rel='stylesheet'/>
+  <noscript><link href='https://unpkg.com/aos@2.3.4/dist/aos.css' rel='stylesheet'/></noscript>
+
+  <b:if cond='data:view.isLayoutMode'>
+    <b:template-skin><![CDATA[ 
+      body#layout::before{content:'Om Muruga Framework v6.5 Engineered Internally';position:absolute;top:15px;right:15px;font-size:.8rem;font-family:Roboto, sans-serif;color:rgba(0,0,0,0.52)} 
+      body#layout{width:100%;max-width:1200px;margin:0 auto !important;padding:60px 20px 0 20px !important;border:0 !important;} 
+      body#layout .mainIn{margin-top:40px;padding-bottom:0} 
+      body#layout .mainIn::before{content:'Main Content'} 
+      body#layout footer::before{content:'Footer'} 
+    ]]></b:template-skin>
+  </b:if>
+
+  <b:skin><![CDATA[
+    :root {
+      --headC: #1a1a2e; --bodyC: #333333; --bodyB: #f8f9fa; 
+      --linkC: #d4af37; --linkB: #1a1a2e; --fffC: #ffffff; 
+      --glassB: rgba(255,255,255,0.78); --glassD: rgba(26,26,46,0.88);
+      --borderC: rgba(212,175,55,0.24); --shadowSoft: 0 18px 48px rgba(14,18,35,0.12);
+      --headerH: 78px;
+      --fontH: 'Playfair Display', serif; --fontB: 'Segoe UI', sans-serif;
+    }
+    html, body { margin: 0; padding: 0; font-family: var(--fontB); background: var(--bodyB); color: var(--bodyC); scroll-behavior: smooth; }
+    h1, h2, h3, h4, h5, h6 { margin: 0; font-weight: 700; font-family: var(--fontH); color: var(--headC); line-height: 1.4em; }
+    a { color: var(--linkC); text-decoration: none; transition: 0.3s; }
+    a:hover { opacity: 0.8; }
+    .secIn { margin: 0 auto; padding: 0 20px; max-width: 1200px; }
+    
+    .progress-container { width: 100%; height: 4px; background: var(--headC); position: fixed; top: 0; z-index: 1001; }
+    .progress-bar { height: 4px; background: var(--linkC); width: 0%; }
+    
+    .top-bar-wrapper { background: #f4f6fd; border-bottom: 1px solid #e1e5f2; color: #555; font-size: 13px; font-weight: 500; }
+    .top-bar { display: flex; justify-content: space-between; align-items: center; padding: 8px 20px; max-width: 1200px; margin: 0 auto; }
+    .top-contact { display: flex; gap: 20px; }
+    .top-contact a { color: #555; display: inline-flex; align-items: center; gap: 6px; }
+    .top-contact a:hover { color: var(--linkC); }
+    .top-contact svg { width: 14px; height: 14px; fill: currentColor; }
+    .top-social { display: flex; gap: 15px; }
+    .top-social a { color: #1a1a2e; transition: 0.3s; }
+    .top-social svg { width: 15px; height: 15px; fill: currentColor; }
+    .top-social a:hover { color: var(--linkC); transform: translateY(-2px); }
+
+    header { width: 100%; z-index: 1000; position: sticky; top:0; background: var(--glassD); color: var(--fffC); border-bottom: 1px solid rgba(212,175,55,0.58); box-shadow: 0 16px 40px rgba(0,0,0,0.14); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);}
+    .headIn { display: flex; justify-content: space-between; align-items: center; height: var(--headerH); gap: 24px; position: relative;}
+    .headL { display: flex; align-items: center; }
+    .headF { flex: 1; display: flex; justify-content: center; }
+    .headR { display: flex; align-items: center; }
+    
+    .mobile-menu-btn { display: none; color: #fff; font-size: 28px; cursor: pointer; padding: 5px; user-select: none; margin-right: 15px;}
+    #menu-nav-menu { display: flex; align-items: center; list-style: none; margin: 0; padding: 0; gap: 2px; position: relative; }
+    #menu-nav-menu > li { position: relative; }
+    #menu-nav-menu > li > a { color: var(--fffC); padding: 26px 14px; display: block; font-weight: 500; text-transform: uppercase; font-size: 13px; letter-spacing: 0.04em; }
+    #menu-nav-menu > li:hover > a, #menu-nav-menu > li:focus-within > a { color: var(--linkC); }
+    .has-submenu > a::after, .has-mega > a::after { content: "\25BC";  /* ▼ */; display: inline-block; font-size: 9px; margin-left: 8px; vertical-align: middle; }
+    
+    .submenu { display: none; position: absolute; top: 100%; left: 0; min-width: 220px; background: #ffffff; border: 1px solid rgba(212, 175, 55, 0.55); box-shadow: 0 18px 36px rgba(0,0,0,0.18); list-style: none; margin: 0; padding: 10px 0; z-index: 1002; border-top: 3px solid var(--linkC); border-radius: 0 0 4px 4px;}
+    .submenu li { width: 100%; }
+    .submenu li a { display: block; padding: 14px 18px; color: var(--headC); font-size: 14px; font-weight: 600; text-transform: none; background: #ffffff; }
+    .submenu li a:hover { background: #f6f0db; color: #9d7411; opacity: 1; padding-left: 25px;}
+    .has-submenu:hover .submenu, .has-submenu:focus-within .submenu { display: block; }
+    
+    .has-mega { position: static !important; }
+    .mega-menu { position: absolute; top: 100%; left: 0; width: 100%; background: #fff; display: none; padding: 30px; grid-template-columns: repeat(4, 1fr); gap: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border-top: 3px solid #d4af37; z-index: 1002; border-radius: 0 0 8px 8px;}
+    .has-mega:hover .mega-menu { display: grid; }
+    .mega-menu div { display: flex; flex-direction: column; }
+    .mega-menu h4 { color: #d4af37; margin-bottom: 15px; font-size: 16px; border-bottom: 1px solid #eee; padding-bottom: 10px;}
+    .mega-menu a { color: #1a1a2e !important; padding: 8px 0 !important; font-weight: 600 !important; font-size: 14px;}
+    .mega-menu a:hover { color: #d4af37 !important; padding-left: 5px !important; }
+
+    .blogCont { padding: 40px 0; }
+    .layout-wrapper { display: flex; flex-wrap: wrap; gap: 30px; }
+    .mainbar { flex: 1; min-width: 0; }
+    .sidebar-widget-area { width: 320px; flex-shrink: 0; }
+
+    .error-wrap { text-align: center; padding: 100px 20px; background: #fff; border-radius: 12px; margin: 40px auto; max-width: 800px; box-shadow: 0 5px 30px rgba(0,0,0,0.05); }
+    .error-wrap h1 { font-size: 64px; color: #d4af37; margin-bottom: 10px; font-family: var(--fontH); }
+    .error-wrap p { font-size: 18px; color: #666; margin-bottom: 30px; }
+
+    .hero { height: 90vh; background: url('https://images.unsplash.com/photo-1600596542815-ffad4c1539a9') center/cover scroll; display: flex; align-items: center; justify-content: center; text-align: center; position: relative; }
+    .hero::after { content:''; position:absolute; inset:0; background: rgba(26,26,46,0.7); z-index: 1; }
+    .hero-content { position: relative; z-index: 2; padding: 0 20px;}
+    .hero-title { font-family: 'Playfair Display', serif; font-size: 4rem; font-weight: 800; color: #ffffff; margin-bottom: 10px; text-shadow: 2px 2px 10px rgba(0,0,0,0.5); letter-spacing: -1px; }
+    .hero-subtitle { font-family: 'Playfair Display', serif; font-size: 1.8rem; font-weight: 600; color: #d4af37; margin-bottom: 20px; text-shadow: 1px 1px 5px rgba(0,0,0,0.8); }
+    .hero-desc { font-family: 'Segoe UI', sans-serif; font-size: 1.2rem; color: #f8f9fa; margin-bottom: 30px; line-height: 1.5; max-width: 800px; margin-left: auto; margin-right: auto; }
+    .hero-btn { background: #d4af37; padding: 16px 36px; color: #000; font-weight: 800; border-radius: 6px; display: inline-block; margin-top: 25px; font-size: 16px; text-transform: uppercase; transition: 0.3s; box-shadow: 0 10px 20px rgba(212,175,55,0.4); cursor:pointer;}
+    .hero-btn:hover { transform: translateY(-3px); box-shadow: 0 15px 25px rgba(212,175,55,0.6); }
+
+    .submit-popup-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.8); z-index: 10005; backdrop-filter: blur(5px); }
+    .submit-popup { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: var(--glassB); padding: 25px; border-radius: 8px; width: 90%; max-width: 650px; box-shadow: 0 20px 50px rgba(0,0,0,0.5); border: 1px solid rgba(255,255,255,0.4); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); }
+    .close-submit-popup { position: absolute; top: 15px; right: 15px; background: #1a1a2e; color: #fff; width: 30px; height: 30px; border-radius: 50%; text-align: center; line-height: 30px; cursor: pointer; font-weight: bold; font-size: 14px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); transition:0.3s;}
+    .close-submit-popup:hover { background: #d4af37; color:#000;}
+
+    .blogPts { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 30px; }
+    .property-card { position: relative; backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); background: var(--glassB); border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); overflow: hidden; display: flex; flex-direction: column; transition: transform 0.28s ease, box-shadow 0.28s ease, border-color 0.28s ease; border: 1px solid var(--borderC);}
+    .property-card::before { content: ''; position: absolute; inset: 0; border-radius: 8px; border: 1px solid transparent; pointer-events: none; transition: border-color 0.28s ease, box-shadow 0.28s ease; }
+    .property-card:hover { transform: translateY(-6px) scale(1.01); box-shadow: var(--shadowSoft); border-color: #d4af37;}
+    .property-card:hover::before { border-color: rgba(212,175,55,0.58); box-shadow: inset 0 0 0 1px rgba(255,255,255,0.3); }
+    .property-image { position: relative; height: 220px; width: 100%; overflow: hidden; }
+    .property-image img { width: 100%; height: 100%; object-fit: cover; transition: 0.5s; }
+    .property-card:hover .property-image img { transform: scale(1.05); }
+    .property-meta { position: absolute; top: 15px; left: 15px; display: flex; gap: 8px; flex-wrap: wrap; z-index: 2; }
+    .badge { background: #d4af37; color: #000; padding: 5px 12px; font-size: 12px; font-weight: 700; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.2); text-transform: uppercase; letter-spacing: 0.5px;}
+    .badge.type-badge { background: #1a1a2e; color: #fff; }
+    .badge.sold { background: #ff4757 !important; color: #fff !important; }
+
+    .property-info { padding: 25px; display: flex; flex-direction: column; flex-grow: 1; }
+    .prop-price { color: #d4af37; font-size: 22px; font-weight: 800; margin-bottom: 10px; font-family: var(--fontB); }
+    .property-info h3 { font-size: 20px; margin-bottom: 12px; line-height: 1.4; font-family: var(--fontH); }
+    .property-info h3 a { color: #1a1a2e; text-decoration: none; }
+    .property-info h3 a:hover { color: #d4af37; }
+    .property-info p { color: #666; font-size: 14px; line-height: 1.6; margin-bottom: 20px; flex-grow: 1; }
+    .view-btn { display: block; text-align: center; background: #f8f9fa; color: #1a1a2e; border: 2px solid #1a1a2e; padding: 12px; border-radius: 6px; font-weight: bold; text-transform: uppercase; font-size: 13px; transition: transform 0.22s ease, box-shadow 0.22s ease, background 0.22s ease; }
+    .view-btn:hover { background: #1a1a2e; color: #fff; border-color: #1a1a2e; transform: translateY(-2px); box-shadow: 0 10px 20px rgba(26,26,46,0.18);}
+
+    .property-detail-wrapper { background: #fff; border-radius: 8px; padding: 40px; box-shadow: 0 5px 30px rgba(0,0,0,0.05); margin: 0 0 40px 0;}
+    .property-title { font-size: 38px; color: #1a1a2e; margin-bottom: 25px; font-family: var(--fontH); }
+    .property-gallery-hero { border-radius: 8px; overflow: hidden; margin-bottom: 30px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+    .property-gallery-hero img { width: 100%; max-height: 500px; object-fit: cover; display: block; }
+    
+    .breadcrumb { font-size: 13px; color: #777; margin-bottom: 20px; font-weight: 500;}
+    .breadcrumb a { color: #1a1a2e; font-weight: 700; text-transform: uppercase; }
+    .breadcrumb a:hover { color: #d4af37; }
+
+    .property-specs { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; background: #f8f9fa; padding: 25px; border-radius: 8px; margin: 25px 0; border: 1px solid #eee; border-left: 4px solid #d4af37;}
+    .property-specs p { margin: 0; font-size: 16px; color: #333; font-weight: 600;}
+    .property-specs strong { color: #888; display: block; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px;}
+
+    .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; margin: 30px 0; }
+    .gallery img { width: 100%; height: 160px; object-fit: cover; border-radius: 8px; cursor: pointer; transition: 0.3s; border: 1px solid #eee;}
+    .gallery img:hover { transform: scale(1.05); box-shadow: 0 10px 20px rgba(0,0,0,0.15);}
+    .post-body img { display: block; max-width: 100%; height: auto; margin: 18px auto; border-radius: 8px; box-shadow: 0 12px 30px rgba(0,0,0,0.10); background: #f0f2f5; }
+    .hidden-original { display: block !important; opacity: 1 !important; height: auto !important; position: static !important; overflow: visible !important; pointer-events: auto !important; }
+
+    .property-details { font-size: 17px; line-height: 1.8; color: #444; margin-bottom: 40px; }
+    .property-cta { display: flex; gap: 15px; flex-wrap: wrap; margin-top: 30px; padding-top: 30px; border-top: 1px solid #eee; }
+    .cta-btn { padding: 15px 30px; border-radius: 6px; font-weight: bold; font-size: 16px; text-align: center; flex: 1; min-width: 200px; transition: 0.3s; display: inline-flex; align-items: center; justify-content: center; gap: 10px;}
+    .cta-btn.wa-btn { background: #25D366; color: #fff; }
+    .cta-btn.wa-btn:hover { background: #1ebd5c; }
+    .cta-btn.call-btn { background: #1a1a2e; color: #d4af37; border: 1px solid #d4af37; }
+    .cta-btn.call-btn:hover { background: #d4af37; color: #1a1a2e; }
+
+    /* 🚨 5. STICKY SEARCH BAR DESIGN (Now visible on all pages) */
+    .property-filter-wrap { background: var(--glassB); padding: 20px 25px; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); max-width: 1000px; margin: 25px auto 40px; display: flex; gap: 15px; position: relative; z-index: 10; flex-wrap: wrap; justify-content: space-between; align-items: center; border: 1px solid rgba(255,255,255,0.58); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);}
+    .property-filter-wrap input { flex: 2; min-width: 200px; padding: 15px; border: 1px solid #ddd; border-radius: 6px; font-size: 15px; font-family: var(--fontB); color: #333; outline: none; transition: 0.3s; }
+    .property-filter-wrap select { flex: 1; min-width: 150px; padding: 15px; border: 1px solid #ddd; border-radius: 6px; font-size: 15px; font-family: var(--fontB); color: #333; outline: none; transition: 0.3s; }
+    .property-filter-wrap input:focus, .property-filter-wrap select:focus { border-color: #d4af37; box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.2); }
+    .property-filter-wrap button { background: linear-gradient(135deg, #d4af37, #c99f2e); color: #000; border: none; padding: 15px 35px; font-weight: 800; font-size: 15px; text-transform: uppercase; border-radius: 6px; cursor: pointer; transition: 0.3s; flex-shrink: 0; }
+    .property-filter-wrap button:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(212, 175, 55, 0.4); }
+    .instant-search-results { display: none; flex: 1 1 100%; background: #fff; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 16px 34px rgba(0,0,0,0.12); overflow: hidden; }
+    .instant-search-results.active { display: block; }
+    .instant-result { display: grid; grid-template-columns: 72px 1fr; gap: 12px; align-items: center; padding: 10px; border-bottom: 1px solid #f0f0f0; color: #1a1a2e; }
+    .instant-result:last-child { border-bottom: none; }
+    .instant-result img { width: 72px; height: 54px; object-fit: cover; border-radius: 6px; background: #f0f2f5; }
+    .instant-result strong { display: block; font-size: 14px; line-height: 1.35; color: #1a1a2e; }
+    .instant-result span { display: block; font-size: 12px; color: #777; margin-top: 4px; }
+    .instant-empty { padding: 14px; color: #666; font-size: 13px; text-align: center; }
+
+    .in-article-ad { clear: both; margin: 34px 0; padding: 18px 12px; background: #fbfbfb; border: 1px solid #ededed; border-radius: 8px; text-align: center; min-height: 120px; }
+    .ad-label { display: block; margin-bottom: 8px; color: #999; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; }    
+
+    .seo-hub-section, .roi-tools-section, .video-proof-section { padding: 58px 0; background: #fff; border-top: 1px solid #eee; }
+    .seo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 16px; }
+    .seo-link-card { display: block; padding: 22px; border: 1px solid var(--borderC); border-radius: 8px; background: #fff; color: #1a1a2e; box-shadow: 0 5px 18px rgba(0,0,0,0.04); transition: 0.28s ease; }
+    .seo-link-card:hover { transform: translateY(-4px); box-shadow: var(--shadowSoft); border-color: #d4af37; opacity: 1; }
+    .seo-link-card strong { display: block; color: #1a1a2e; margin-bottom: 8px; font-size: 16px; }
+    .seo-link-card span { display: block; color: #666; font-size: 13px; line-height: 1.5; }
+    .tools-grid { display: grid; grid-template-columns: minmax(260px, 1fr) minmax(260px, 1fr); gap: 24px; }
+    .tool-panel { background: #f8f9fa; border: 1px solid #eee; border-radius: 8px; padding: 24px; }
+    .tool-panel h3 { font-size: 22px; margin-bottom: 16px; }
+    .tool-panel label { display: block; font-size: 13px; font-weight: 700; color: #555; margin: 12px 0 6px; }
+    .tool-panel input { width: 100%; box-sizing: border-box; padding: 12px 14px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; }
+    .tool-panel button { margin-top: 14px; background: #1a1a2e; color: #d4af37; border: 1px solid #d4af37; border-radius: 6px; padding: 12px 18px; font-weight: 800; cursor: pointer; transition: 0.24s ease; }
+    .tool-panel button:hover { transform: translateY(-2px); background: #d4af37; color: #1a1a2e; }
+    .roi-result, .compare-result { margin-top: 16px; padding: 14px; background: #fff; border-radius: 6px; color: #1a1a2e; font-weight: 700; min-height: 22px; }
+    .compare-table { width: 100%; border-collapse: collapse; margin-top: 14px; font-size: 13px; }
+    .compare-table th, .compare-table td { border-bottom: 1px solid #e5e5e5; padding: 9px 6px; text-align: left; }
+    .compare-table th { color: #777; font-size: 11px; text-transform: uppercase; letter-spacing: 0.08em; }
+    .video-proof { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 28px; align-items: center; }
+    .video-shell { position: relative; overflow: hidden; border-radius: 8px; min-height: 280px; background: linear-gradient(135deg, rgba(26,26,46,0.92), rgba(0,0,0,0.62)), url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c') center/cover; box-shadow: var(--shadowSoft); }
+    .video-play { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: #1a1a2e; }
+    .video-play span { width: 76px; height: 76px; border-radius: 50%; background: #d4af37; display: flex; align-items: center; justify-content: center; font-size: 34px; box-shadow: 0 14px 30px rgba(0,0,0,0.24); }
+    .video-copy p { color: #555; line-height: 1.7; }
+
+    /* 🚨 5. INTERNAL LINKING BOOST */
+    .internal-links { margin-top: 40px; display: flex; gap: 12px; flex-wrap: wrap; padding-top: 30px; border-top: 2px dashed #eee;}
+    .internal-links span { display: block; width: 100%; font-weight: bold; font-size: 20px; color: #1a1a2e; font-family: var(--fontH); margin-bottom: 10px;}
+    .internal-links a { background: #f4f6fd; color: #1a1a2e; padding: 10px 20px; border-radius: 4px; font-size: 13px; font-weight: bold; text-transform: uppercase; border: 1px solid #d4af37; transition: 0.3s;}
+    .internal-links a:hover { background: #1a1a2e; color: #d4af37; }
+
+    .google-reviews { background: #fff; padding: 20px; border-radius: 8px; text-align: center; font-weight: bold; color: #1a1a2e; margin: 30px 0; border: 1px solid #eee; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+    .google-reviews span { color: #f39c12; font-size: 24px; letter-spacing: 2px; }
+
+    .sidebar-widget { background: #fff; border-radius: 8px; padding: 25px; box-shadow: 0 5px 20px rgba(0,0,0,0.05); margin-bottom: 30px; border: 1px solid #eee; }
+    .sidebar-widget h3 { font-size: 18px; margin-bottom: 20px; color: #1a1a2e; border-left: 4px solid #d4af37; padding-left: 10px; font-family: var(--fontH);}
+    .sidebar-widget input, .sidebar-widget select { width: 100%; padding: 12px 15px; margin-bottom: 15px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; outline: none; box-sizing: border-box; }
+    .sidebar-widget input:focus, .sidebar-widget select:focus { border-color: #d4af37; }
+    .sidebar-widget button { width: 100%; background: linear-gradient(135deg, #d4af37, #c99f2e); color: #000; border: none; padding: 14px; font-weight: 800; border-radius: 6px; cursor: pointer; transition: 0.3s; }
+    .sidebar-widget button:hover { box-shadow: 0 5px 15px rgba(212, 175, 55, 0.4); transform: translateY(-2px);}
+
+    .sticky-cta { position: fixed; bottom: 20px; left: 20px; background: #d4af37; padding: 14px 24px; border-radius: 50px; z-index: 9999; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: 0.3s; display: flex; align-items: center; gap: 8px;}
+    .sticky-cta a { color: #000; font-weight: 800; font-size: 15px; text-decoration: none; }
+    .sticky-cta:hover { transform: scale(1.05); background: #f2ce5e;}
+
+    .exit-popup-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.8); z-index: 10005; backdrop-filter: blur(5px); }
+    .exit-popup { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: rgba(26,26,46,0.92); padding: 40px; border-radius: 8px; border: 2px solid #d4af37; width: 90%; max-width: 450px; text-align: center; color: #fff; box-shadow: 0 20px 50px rgba(0,0,0,0.5); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); }
+    .exit-popup h2 { color: #d4af37; font-size: 24px; margin-bottom: 10px; font-family: var(--fontH); }
+    .exit-popup p { margin-bottom: 20px; font-size: 15px; opacity: 0.9; }
+    .exit-popup select, .exit-popup input { width: 100%; padding: 15px; margin-bottom: 15px; border: none; border-radius: 6px; box-sizing: border-box; font-family: var(--fontB); font-size: 15px;}
+    .exit-popup button { width: 100%; background: linear-gradient(135deg, #d4af37, #c99f2e); color: #000; border: none; padding: 15px; font-weight: 800; font-size: 16px; border-radius: 6px; cursor: pointer; transition: 0.3s; }
+    .exit-popup button:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(212, 175, 55, 0.4); }
+    .close-popup { position: absolute; top: 15px; right: 15px; color: #fff; cursor: pointer; font-size: 24px; line-height: 1; }
+
+    .construction-trust { background: #1a1a2e; color: #fff; padding: 60px 0; }
+    .section-header { text-align: center; margin-bottom: 40px; }
+    .section-header h2 { color: #fff; font-size: 32px; font-weight: 700; margin-bottom: 10px; font-family: var(--fontH);}
+    .section-header h2.dark-text { color: #1a1a2e; }
+    .section-line { width: 60px; height: 3px; background: linear-gradient(90deg, #d4af37, #c99f2e); margin: 0 auto; }
+    .const-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; text-align: center; }
+    .const-card { padding: 30px 20px; border: 1px solid rgba(212,175,55,0.2); border-radius: 8px; background: rgba(0,0,0,0.2); transition: 0.3s;}
+    .const-card:hover { transform: translateY(-5px); border-color: #d4af37; background: rgba(212,175,55,0.05); }
+    .const-card h3 { color: #d4af37; font-size: 36px; margin-bottom: 10px; font-family: var(--fontH);}
+    .const-card p { color: #ddd; font-size: 15px; font-weight: 500; margin: 0; line-height: 1.5;}
+
+    .great-features { background: #111; color: #fff; padding: 60px 0; border-top: 1px solid #333;}
+    .gf-grid { display: grid; grid-template-columns: 1fr 320px 1fr; gap: 30px; align-items: center; margin-top: 40px; }
+    .gf-item { background: #1a1a1a; border: 1px solid #333; padding: 20px; border-radius: 8px; display: flex; align-items: center; gap: 15px; margin-bottom: 20px; border-left: 3px solid #d4af37; transition: 0.3s;}
+    .gf-item:hover { transform: translateX(5px); border-color: #d4af37; }
+    .gf-right .gf-item:hover { transform: translateX(-5px); }
+    .gf-icon { width: 50px; height: 50px; background: linear-gradient(135deg, #d4af37, #c99f2e); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 20px; flex-shrink: 0; color: #000;}
+    .gf-text h3 { font-size: 16px; color: #fff; margin-bottom: 5px; }
+    .gf-text p { font-size: 13px; color: #aaa; margin: 0; line-height: 1.4;}
+    .gf-center { text-align: center; }
+    .gf-center img { width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 2px solid #333;}
+
+    .tab-parent { background: #fefefe; padding: 60px 0; border-top: 1px solid #eee; border-bottom: 1px solid #eee; }
+    .bow { display: flex; flex-wrap: wrap; margin-left: -30px; align-items: center;}
+    .breedum { width: calc(100% / 3); padding-left: 30px; box-sizing: border-box; }
+    .sring img { width: 100%; height: auto; border-radius: 8px; }
+    .dring { margin-bottom: 30px; padding: 25px; background: #fff; box-shadow: 0 5px 20px rgba(0,0,0,0.05); border-radius: 8px; transition: 0.3s; display: flex; align-items: flex-start;}
+    .dring:hover { transform: translateY(-3px); box-shadow: 0 10px 25px rgba(0,0,0,0.1); border-left: 3px solid #d4af37;}
+    .dring svg { width: 45px; height: 45px; fill: var(--linkC); margin-right: 20px; flex-shrink: 0; }
+    .tesign-bot h2 { font-size: 18px; margin-bottom: 8px; color: var(--headC); font-family: var(--fontB); font-weight: 700;}
+    .tesign-text { font-size: 14px; color: #666; line-height: 1.6; }
+
+    .vision-mission-section { padding: 60px 0; background: #fff; }
+    .vm-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 50px; align-items: center; }
+    .vm-image img { width: 100%; border-radius: 12px; box-shadow: 0 10px 40px rgba(0,0,0,0.15); }
+    .vm-content h3 { font-size: 15px; text-transform: uppercase; letter-spacing: 1px; color: #d4af37; border-bottom: 2px solid #d4af37; display: inline-block; padding-bottom: 5px; margin-bottom: 25px;}
+    .vm-block { margin-bottom: 30px; }
+    .vm-block h4 { font-size: 22px; color: #1a1a2e; margin-bottom: 12px; display: flex; align-items: center; gap: 10px; font-family: var(--fontH);}
+    .vm-block p { font-size: 15px; color: #555; line-height: 1.7; margin-bottom: 0; }
+
+    .testimonials-section { background: #f8f9fa; padding: 60px 0; border-top: 1px solid #eee; }
+    .testimonial-slider-wrap { overflow: hidden; width: 100%; position: relative; }
+    .testimonial-slider { display: flex; position: relative; width: 100%; transition: transform 0.5s ease; }
+    .testi-item { min-width: 100%; text-align: center; padding: 40px 30px; background: #fff; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.05); border-bottom: 3px solid #d4af37; box-sizing: border-box; }
+    .testi-item p { font-style: italic; color: #555; font-size: 16px; line-height: 1.7; margin-bottom: 20px;}
+    .testi-item h4 { color: #d4af37; font-size: 16px; font-weight: 700; margin-top: 10px;}
+    .testi-controls { text-align: center; margin-top: 20px; }
+    .testi-controls button { background: #1a1a2e; color: #d4af37; border: 1px solid #d4af37; padding: 8px 15px; cursor: pointer; border-radius: 4px; margin: 0 5px; transition: 0.3s; }
+    .testi-controls button:hover { background: #d4af37; color: #1a1a2e; }
+
+    .counter-container { background: linear-gradient(135deg, #d4af37 0%, #c99f2e 100%); padding: 30px 20px; margin: 16px auto; border-radius: 8px; box-shadow: 0 8px 24px rgba(212, 175, 55, 0.2); max-width: 1000px; width: 100%; } 
+    .counter-wrapper { display: grid; grid-template-columns: repeat(4, minmax(130px, 1fr)); gap: 20px; width: 100%; align-items: flex-start; } 
+    .counter { background: #000000; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12); display: flex; flex-direction: column; align-items: center; justify-content: flex-start; } 
+    .counter:hover { transform: translateY(-3px); box-shadow: 0 7px 18px rgba(0, 0, 0, 0.18); } 
+    .counter-icon { font-size: 36px; margin-bottom: 10px; display: block; } 
+    .timer { display: block; font-size: 32px; font-weight: 700; color: #f4f4f4; margin: 5px 0 5px; white-space: nowrap; } 
+    .counter-title { font-size: 14px; font-weight: 600; color: #d4af37; margin: 0; line-height: 1.4; } 
+    
+    .floating-tools { position: fixed; bottom: 20px; right: 20px; z-index: 998; display: flex; flex-direction: column; gap: 15px; align-items: flex-end;}
+    .float-btn { display: flex; align-items: center; justify-content: center; width: 60px; height: 60px; border-radius: 50%; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: 0.3s; font-size: 24px; color: #fff; }
+    .float-btn:hover { transform: scale(1.1); color: #fff; }
+    .btn-wa { background: #25D366; animation: pulse 2s infinite; }
+    @keyframes pulse {
+      0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.7); }
+      70% { transform: scale(1.05); box-shadow: 0 0 0 15px rgba(37, 211, 102, 0); }
+      100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
+    }
+
+    footer { background: #050505; color: #d9d9d9; padding: 54px 0 34px; margin-top: 0; text-align: center; border-top: 4px solid var(--linkC);}
+    .footer-links { margin: 0 0 28px; list-style: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; }
+    .footer-links li { display: inline-flex; align-items: center; }
+    .footer-links li:not(:last-child)::after { content: "\2022";  /* • */; color: rgba(255,255,255,0.55); margin-left: 14px; }
+    .footer-links a { color: #fff; text-transform: uppercase; font-size: 13px; font-weight: 700; letter-spacing: 0.08em; }
+    .footer-copy { max-width: 980px; margin: 0 auto 26px; color: #ffffff; font-size: 16px; line-height: 1.55; font-weight: 700; }
+
+    @media (max-width: 1024px) {
+      .hero-title { font-size: 3rem; }
+      .headIn { padding: 14px 0; }
+      .bow { margin-left: 0; }
+      .breedum { width: 100%; padding-left: 0; margin-bottom: 20px; }
+      .sbreed { text-align: center; }
+      .sring img { max-width: 500px; margin: 0 auto; }
+      .counter-wrapper { grid-template-columns: repeat(2, 1fr); gap: 15px;}
+      .gf-grid { grid-template-columns: 1fr 1fr; }
+      .gf-center { grid-column: 1 / -1; order: -1; margin-bottom: 20px; }
+      .gf-center img { max-width: 300px; }
+      .vm-grid { grid-template-columns: 1fr; gap: 30px; }
+      .sidebar-widget-area { width: 100%; }
+      .property-filter-wrap input, .property-filter-wrap select { min-width: 100%; }
+      .tools-grid, .video-proof { grid-template-columns: 1fr; }
+    }
+
+    @media (min-width: 1025px) {
+      .sidebar-widget.sticky-sidebar-ad { position: sticky; top: 100px; z-index: 4; }
+    }
+
+    @media (max-width: 900px) {
+      .mobile-menu-btn { display: block; }
+      .headF { position: absolute; top: 100%; left: 0; width: 100%; background: #1a1a2e; z-index: 999; }
+      #menu-nav-menu { display: none; flex-direction: column; width: 100%; padding: 0; box-shadow: 0 10px 20px rgba(0,0,0,0.2); }
+      #menu-nav-menu.show-mobile-menu { display: flex; }
+      #menu-nav-menu > li { width: 100%; }
+      #menu-nav-menu > li > a { padding: 15px 20px; border-bottom: 1px solid rgba(255,255,255,0.05); }
+      .submenu, .mega-menu { position: static; box-shadow: none; border-top: none; background: #111122; display: none; padding-left: 15px;}
+      .mega-menu { grid-template-columns: 1fr; padding: 15px; }
+      .has-submenu:hover .submenu, .has-submenu:focus-within .submenu, .has-mega:hover .mega-menu { display: block; }
+      .submenu li a, .mega-menu a { color: #fff !important; background: transparent; }
+      .submenu li a:hover, .mega-menu a:hover { background: rgba(255,255,255,0.1); color: #d4af37 !important;}
+    }
+
+    @media (max-width: 768px) {
+      body { padding-bottom: 74px; }
+      .top-bar { flex-direction: column; gap: 10px; padding: 10px; }
+      .top-contact { flex-direction: column; gap: 5px; text-align: center; }
+      .hero-title { font-size: 2.2rem; }
+      .property-filter-wrap { flex-direction: column; margin: -20px 15px 30px; position: relative; top: 0; }
+      .property-filter-wrap button { width: 100%; }
+      .property-detail-wrapper { padding: 20px; margin: 20px 10px; }
+      .property-title { font-size: 28px; }
+      .sticky-cta { bottom: 84px; left: 12px; padding: 12px 18px; }
+      .floating-tools { bottom: 84px; right: 12px; }
+      .seo-hub-section, .roi-tools-section, .video-proof-section { padding: 42px 0; }
+      .footer-links { flex-direction: column; gap: 10px; }
+      .footer-links li:not(:last-child)::after { content: ''; margin-left: 0; }
+      .footer-copy { font-size: 15px; }
+      .counter-wrapper { grid-template-columns: repeat(2, minmax(130px, 1fr)); }
+      .gf-grid { grid-template-columns: 1fr; }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root { --bodyB: #10131c; --bodyC: #e6e8ee; --headC: #f6f0db; --glassB: rgba(22,26,38,0.82); }
+      html, body { background: var(--bodyB); color: var(--bodyC); }
+      .property-card, .property-detail-wrapper, .property-filter-wrap, .sidebar-widget, .testi-item, .seo-link-card, .tool-panel, .roi-result, .compare-result { background: rgba(22,26,38,0.88); color: #e6e8ee; border-color: rgba(212,175,55,0.22); }
+      .property-info h3 a, .seo-link-card strong, .tool-panel h3, .roi-result, .compare-result { color: #f6f0db; }
+      .property-info p, .seo-link-card span, .video-copy p, .tool-panel label { color: #c8ccd8; }
+      .top-bar-wrapper, .testimonials-section, .tab-parent, .vision-mission-section, .seo-hub-section, .roi-tools-section, .video-proof-section { background: #141824; border-color: rgba(255,255,255,0.08); }
+      .property-filter-wrap input, .property-filter-wrap select, .tool-panel input, .instant-search-results { background: #0f1320; color: #fff; border-color: rgba(255,255,255,0.12); }
+      .mobile-sticky-ad { background: #111521; border-color: rgba(255,255,255,0.12); }
+    }
+
+  ]]></b:skin>
+    
+  </head>
+
+  <body>
+    <b:attr name='id' value='mainCont'/>
+
+    <div class='progress-container'>
+      <div class='progress-bar' id='myBar'/>
+    </div>
+
+    <div class='top-bar-wrapper'>
+      <div class='top-bar'>
+        <div class='top-contact'>
+          <a href='tel:+917373036360' onclick='if(typeof gtag !== &quot;undefined&quot;) gtag(&quot;event&quot;, &quot;click&quot;, { event_category: &quot;CTA&quot;, event_label: &quot;Top Bar Call&quot; });'>
+            <svg viewBox='0 0 24 24'><path d='M20.01 15.38c-1.23 0-2.42-.2-3.53-.56a.977.977 0 0 0-1.01.24l-1.57 1.97c-2.83-1.35-5.48-3.9-6.89-6.83l1.95-1.66c.27-.28.35-.67.24-1.02-.37-1.11-.56-2.3-.56-3.53 0-.54-.45-.99-.99-.99H4.19C3.65 3 3 3.24 3 3.99 3 13.28 10.73 21 20.01 21c.71 0 .99-.63.99-1.18v-3.45c0-.54-.45-.99-.99-.99z'/></svg> 
+            +91-73730 36360
+          </a>
+          <a href='mailto:omc.3chy@gmail.com'>
+            <svg viewBox='0 0 24 24'><path d='M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z'/></svg> 
+            omc.3chy@gmail.com
+          </a>
+        </div>
+        <div class='top-social'>
+          <a href='#' title='Facebook'><svg viewBox='0 0 24 24'><path d='M22.675 0h-21.35c-.732 0-1.325.593-1.325 1.325v21.351c0 .731.593 1.324 1.325 1.324h11.495v-9.294h-3.128v-3.622h3.128v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.795.143v3.24l-1.918.001c-1.504 0-1.795.715-1.795 1.763v2.313h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.325v-21.35c0-.732-.593-1.325-1.325-1.325z'/></svg></a>
+          <a href='#' title='Twitter'><svg viewBox='0 0 24 24'><path d='M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z'/></svg></a>
+          <a href='#' title='Instagram'><svg viewBox='0 0 24 24'><path d='M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z'/></svg></a>
+          <a href='#' title='LinkedIn'><svg viewBox='0 0 24 24'><path d='M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z'/></svg></a>
+        </div>
+      </div>
+    </div>
+
+    <header class='header' id='header'>
+      <b:tag class='headCn' name='div'>
+        <b:tag class='headIn secIn' name='div'>
+          
+          <b:tag class='headD headL' name='div'>
+            <div class='mobile-menu-btn' onclick='document.getElementById(&quot;menu-nav-menu&quot;).classList.toggle(&quot;show-mobile-menu&quot;)'>&#9776;</div>
+            <b:section class='headN' id='header-title' maxwidgets='1' showaddelement='false'>
+              <b:widget id='Header1' locked='true' title='Om Muruga Construction (Header)' type='Header' version='2' visible='true'>
+                <b:widget-settings>
+                  <b:widget-setting name='displayUrl'/>
+                  <b:widget-setting name='displayHeight'>0</b:widget-setting>
+                  <b:widget-setting name='sectionWidth'>376</b:widget-setting>
+                  <b:widget-setting name='useImage'>false</b:widget-setting>
+                  <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
+                  <b:widget-setting name='imagePlacement'>BEHIND</b:widget-setting>
+                  <b:widget-setting name='displayWidth'>0</b:widget-setting>
+                </b:widget-settings>
+                <b:includable id='main'>
+                  <div class='headInnr'>
+                    <a expr:href='data:blog.homepageUrl.canonical' title='Om Muruga Group'>
+                      <img alt='Om Muruga Group of Companies' decoding='async' loading='lazy' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFAj8iQ6WBw9Y2EjsLVcwUPydEA7NkviK_vYwFjV72sJRXa6LgjGeG5IpE6LUu5gCDylo9N-uADF3x3SeOSSfy0r05HE_29nfKuEUoxmnS5GZuKZErWozA0-gMyEYitWLbJQ7JnmzcaFEU_WkBnxFfGNhXaeM0WcmYd5bCzToaomT1p35NEXGLovZpdPg/s4350/PNG.png' style='max-height: 60px; width: auto; display:block;'/>
+                    </a>
+                  </div>
+                </b:includable>
+                <b:includable id='behindImageStyle'>
+                  <b:if cond='data:sourceUrl'>
+                    <b:include cond='data:this.image' data='{ image: data:this.image, selector: &quot;.header-widget&quot; }' name='responsiveImageStyle'/>
+                    <style type='text/css'>
+                      .header-widget { background-position: <data:blog.locale.languageAlignment/>; background-repeat: no-repeat; background-size: cover; }
+                    </style>
+                  </b:if>
+                </b:includable>
+                <b:includable id='description'>
+                  <p><data:this.description/></p>
+                </b:includable>
+                <b:includable id='image'>
+                  <a class='header-image-wrapper' expr:href='data:blog.homepageUrl'>
+                    <b:include data='{ image: data:image, altText: data:blog.title.escaped, originalWidth: data:width, originalHeight: data:height }' name='responsiveImage'/>
+                  </a>
+                </b:includable>
+                <b:includable id='title'>
+                  <h1>
+                    <b:tag cond='data:view.url != data:blog.homepageUrl' expr:href='data:blog.homepageUrl' name='a'>
+                      <data:title/>
+                    </b:tag>
+                  </h1>
+                </b:includable>
+              </b:widget>
+            </b:section>
+          </b:tag>
+          
+          <div class='headD headF'>
+            <b:section class='menu-nav' id='menu-nav' maxwidgets='1' showaddelement='no'>
+              <b:widget id='LinkList101' locked='true' title='Main Navigation' type='LinkList' version='2' visible='true'>
+                <b:widget-settings>
+                  <b:widget-setting name='text-8'>Calculators</b:widget-setting>
+                  <b:widget-setting name='link-7'>https://kkomc.blogspot.com/p/about-us.html</b:widget-setting>
+                  <b:widget-setting name='link-8'>https://kkomc.blogspot.com/p/property-investment-tools-make-informed.html</b:widget-setting>
+                  <b:widget-setting name='link-5'>https://kkomc.blogspot.com/p/valuation.html</b:widget-setting>
+                  <b:widget-setting name='link-6'>https://kkomc.blogspot.com/p/services_14.html</b:widget-setting>
+                  <b:widget-setting name='link-3'>https://kkomc.blogspot.com/p/blogs.html</b:widget-setting>
+                  <b:widget-setting name='link-4'>https://kkomc.blogspot.com/p/real-estate.html</b:widget-setting>
+                  <b:widget-setting name='text-1'>PROPERTIES </b:widget-setting>
+                  <b:widget-setting name='text-0'>HOME</b:widget-setting>
+                  <b:widget-setting name='text-3'>_General</b:widget-setting>
+                  <b:widget-setting name='text-2'>BLOG</b:widget-setting>
+                  <b:widget-setting name='text-5'>_Valuation</b:widget-setting>
+                  <b:widget-setting name='text-4'>_Real Estate</b:widget-setting>
+                  <b:widget-setting name='text-7'>ABOUT US</b:widget-setting>
+                  <b:widget-setting name='text-6'>SERVICES</b:widget-setting>
+                  <b:widget-setting name='sorting'>NONE</b:widget-setting>
+                  <b:widget-setting name='link-1'>#2</b:widget-setting>
+                  <b:widget-setting name='link-2'>#</b:widget-setting>
+                  <b:widget-setting name='link-0'>{homepage}</b:widget-setting>
+                </b:widget-settings>
+                <b:includable id='main'>
+                  <ul id='menu-nav-menu' role='menubar'>
+                    <li><a href='/'>HOME</a></li>
+                    
+                    <li class='has-mega'>
+                      <a href='#'>PROPERTIES</a>
+                      <div class='mega-menu'>
+                        <div>
+                          <h4>Residential</h4>
+                          <a href='https://kkomc.blogspot.com/p/plots.html'>Plots</a>
+                          <a href='https://kkomc.blogspot.com/p/building.html'>Building</a>
+                          <a href='https://kkomc.blogspot.com/p/apartments.html'>Apartments</a>
+                        </div>
+                        <div>
+                          <h4>Commercial</h4>
+                          <a href='https://kkomc.blogspot.com/p/office-spaces-land-building.html'>Office Spaces (Land / Building)</a>
+                          <a href='https://kkomc.blogspot.com/p/rental-properties.html'>Rental Properties</a>
+                          <a href='https://kkomc.blogspot.com/p/ware-houses-sale.html'>Ware Houses Sale</a>
+                        </div>
+                        <div>
+                          <h4>Investment</h4>
+                          <a href='https://kkomc.blogspot.com/p/high-roi-layout.html'>High ROI Layout</a>
+                          <a href='https://kkomc.blogspot.com/p/parcel-land.html'>Parcel Land</a>
+                          <a href='https://kkomc.blogspot.com/p/agricultural-land.html'>Agricultural Land</a>
+                        </div>
+                        <div>
+                          <h4>Quick Links</h4>
+                          <a href='https://kkomc.blogspot.com/p/property-investment-tools-make-informed.html'>Calculator</a>
+                          <a href='https://kkomc.blogspot.com/p/quick-links.html'>Request Valuation</a>
+                        </div>
+                      </div>
+                    </li>
+                    
+                    <li><a href='https://kkomc.blogspot.com/p/construction-projects.html'>CONSTRUCTION</a></li>
+                    
+                    <li class='has-submenu'>
+                      <a href='#'>BLOG</a>
+                      <ul class='submenu'>
+                        <li><a href='https://kkomc.blogspot.com/p/blogs.html'>General</a></li>
+                        <li><a href='https://kkomc.blogspot.com/p/real-estate.html'>Real Estate</a></li>
+                        <li><a href='https://kkomc.blogspot.com/p/valuation.html'>Valuation</a></li>
+                      </ul>
+                    </li>
+                    <li><a href='https://kkomc.blogspot.com/p/services_14.html'>SERVICES</a></li>
+                    <li><a href='https://kkomc.blogspot.com/p/about-us.html'>ABOUT US</a></li>
+                  </ul>
+                </b:includable>
+                <b:includable id='content'>
+ <div class='widget-content'>
+   <ul>
+     <b:loop values='data:links' var='link'>
+       <li><a expr:href='data:link.target'><data:link.name/></a></li>
+     </b:loop>
+   </ul>
+ </div>
+</b:includable>
+              </b:widget>
+            </b:section>
+          </div>
+
+        </b:tag>
+      </b:tag>
+    </header>
+
+    <div class='property-filter-wrap' data-aos='fade-up' data-aos-delay='200'>
+      
+      <input autocomplete='off' id='searchKeyword' list='locationsList' placeholder='Search area (e.g., K.K. Nagar)' type='text'/>
+      <datalist id='locationsList'>
+        <option value='K.K. Nagar'/>
+        <option value='Karumandapam'/>
+        <option value='Srirangam'/>
+        <option value='Thillai Nagar'/>
+        <option value='Cantonment'/>
+        <option value='Crawford'/>
+        <option value='Kattur'/>
+        <option value='Tiruverumbur'/>
+        <option value='Woraiyur'/>
+        <option value='Edamalaipatti Pudur'/>
+      </datalist>
+
+      <select id='propertyType'>
+        <option value=''>All Types</option>
+        <option value='Plots'>Plots</option>
+        <option value='Building'>Building</option>
+        <option value='Apartments'>Apartments</option>
+        <option value='Office Spaces'>Office Spaces (Land / Building)</option>
+        <option value='Rental Properties'>Rental Properties</option>
+        <option value='Ware Houses Sale'>Ware Houses Sale</option>
+        <option value='High ROI Layout'>High ROI Layout</option>
+        <option value='Parcel Land'>Parcel Land</option>
+        <option value='Agricultural Land'>Agricultural Land</option>
+      </select>
+
+      <button onclick='executePropertyFilter()'>Search Properties</button>
+      <div aria-live='polite' class='instant-search-results' id='instantSearchResults'/>
+    </div>
+
+    <b:if cond='data:view.isLayoutMode or data:view.isHomepage'>
+      
+      <section class='hero' style='margin-top:-115px;'>
+        <div class='hero-content' data-aos='fade-up' data-aos-duration='1000'>
+          <h1 class='hero-title'>Om Muruga Group of Companies</h1>
+          <h2 class='hero-subtitle'>Premium Real Estate &amp; Construction Solutions in Trichy</h2>
+          <p class='hero-desc'>Expert Property Valuation, Civil Estimations, and High-ROI Investment Plots tailored for your future.</p>
+          
+          <div class='trust-section' style='margin-bottom: 15px;'>
+            <span class='badge'>&#10004; IBBI Registered Valuer</span>
+            <span class='badge'>&#10004; 100+ Properties Sold</span>
+            <span class='badge'>&#10004; DTCP Approved Layouts</span>
+          </div>
+
+          <a class='hero-btn' href='tel:+917373036360' onclick='if(typeof gtag !== &quot;undefined&quot;) gtag(&quot;event&quot;, &quot;click&quot;, { event_category: &quot;CTA&quot;, event_label: &quot;Hero Call Button&quot; });'>Call Us Now</a>
+          
+          <a class='hero-btn' href='javascript:void(0)' onclick='openSubmitPopup()' style='background:#fff; color:#1a1a2e; margin-left:15px; border:1px solid #fff;'>📤 Submit Property</a>
+        </div>
+      </section>
+
+    </b:if> 
+        
+    <div class='mainIn'>
+      
+      <!-- TOP LEADERBOARD AD SLOT -->
+      <div class='secIn' style='margin-bottom: 25px; text-align: center; overflow: hidden; display: block; width: 100%; min-height: 90px;'>
+        <b:section id='top-ad-slot' name='Top Leaderboard Ad' showaddelement='true'>
+          <b:widget id='HTML98' locked='false' title='Top AdSense Banner' type='HTML' version='2' visible='true'>
+            <b:widget-settings>
+              <b:widget-setting name='content'><![CDATA[<script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4724455892440922" crossorigin="anonymous"></script>
+
+<!-- OMC Top Banner -->
+
+<ins class="adsbygoogle"
+
+     style="display:block"
+
+     data-ad-client="ca-pub-4724455892440922"
+
+     data-ad-slot="7474587951"
+
+     data-ad-format="auto"
+
+     data-full-width-responsive="true"></ins>
+
+<script>
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>]]></b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+              <div class='widget-content'>
+                <data:content/>
+              </div>
+            </b:includable>
+          </b:widget>
+        </b:section>
+      </div>
+
+      <b:if cond='data:view.isError'>
+        <div class='error-wrap secIn' data-aos='fade-up'>
+          <h1>404 - Property Not Found</h1>
+          <p>The page or property you are looking for does not exist, or it has already been sold.</p>
+          <a class='hero-btn' href='/'>Return to Homepage</a>
+        </div>
+      </b:if>
+
+      <b:if cond='!data:view.isError'>
+      <div class='blogCont'>
+        <div class='secIn layout-wrapper'>          
+          
+          <main class='blogItm mainbar'>
+            <b:section id='main-widget' showaddelement='true'>
+              <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='2' visible='true'>
+                <b:widget-settings>
+                  <b:widget-setting name='commentLabel'>Comment</b:widget-setting>
+                  <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+                  <b:widget-setting name='authorLabel'>Admin</b:widget-setting>
+                  <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+                  <b:widget-setting name='timestampLabel'>On</b:widget-setting>
+                  <b:widget-setting name='reactionsLabel'/>
+                  <b:widget-setting name='showAuthorProfile'>true</b:widget-setting>
+                  <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+                  <b:widget-setting name='showLocation'>false</b:widget-setting>
+                  <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+                  <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+                  <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+                  <b:widget-setting name='showDateHeader'>false</b:widget-setting>
+                  <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
+                  <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+                  <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
+                  <b:widget-setting name='postLocationLabel'/>
+                  <b:widget-setting name='showAuthor'>false</b:widget-setting>
+                  <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
+                  <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+                  <b:widget-setting name='showLabels'>true</b:widget-setting>
+                  <b:widget-setting name='postLabelsLabel'>in</b:widget-setting>
+                  <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+                  <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+                  <b:widget-setting name='showReactions'>false</b:widget-setting>
+                </b:widget-settings>
+                <b:includable id='main'>
+  
+  <b:if cond='data:view.isMultipleItems'>
+    
+    <b:if cond='data:view.isHomepage'>
+      <div class='section-header' data-aos='fade-up'>
+        <h2 class='dark-text'>Latest Premium Properties</h2>
+        <div class='section-line'/>
+      </div>
+
+      <div class='blogPts' id='premium-properties-grid'>
+         </div>
+
+      <script type='text/javascript'>
+        //<![CDATA[
+        document.addEventListener("DOMContentLoaded", function() {
+          // Explicitly fetch ONLY posts with the "Property" label
+          fetch('/feeds/posts/summary/-/Property?alt=json&max-results=6')
+          .then(response => response.json())
+          .then(data => {
+            let html = '';
+            if (data.feed.entry && data.feed.entry.length > 0) {
+              data.feed.entry.forEach(entry => {
+                let title = entry.title.$t;
+                let link = entry.link.find(l => l.rel === 'alternate').href;
+                
+                let imgUrl = 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9'; 
+                if (entry.media$thumbnail) {
+                  imgUrl = entry.media$thumbnail.url.replace('/s72-c/', '/s600/');
+                }
+                
+                let badgesHtml = '';
+                let priceHtml = '';
+                let snippet = entry.summary ? entry.summary.$t.substring(0, 115) + '...' : '';
+
+                if (entry.category) {
+                  entry.category.forEach(cat => {
+                    let labelName = cat.term;
+                    // Updated to your new Property Types list
+                    if (["Plots", "Building", "Apartments", "Office Spaces", "Rental Properties", "Ware Houses Sale", "High ROI Layout", "Parcel Land", "Agricultural Land"].includes(labelName)) {
+                      badgesHtml += `<span class='badge type-badge'>${labelName}</span>`;
+                    }
+                    if (["Corner Plot", "Near Highway", "DTCP"].includes(labelName)) {
+                      badgesHtml += `<span class='badge' style='background:#1abc9c; color:#fff;'>${labelName}</span>`;
+                    }
+                    if (labelName === "Status:Sold") {
+                      badgesHtml += `<span class='badge sold'>Sold Out</span>`;
+                    }
+                    if (labelName === "Status:Available") {
+                      badgesHtml += `<span class='badge' style='background:#2ecc71; color:#fff;'>Available</span>`;
+                    }
+                    if (labelName === "Hot Deal") {
+                      badgesHtml += `<span class='badge' style='background:#ff6b00; color:#fff;'>Hot Deal</span>`;
+                    }
+                    if (labelName === "New Launch") {
+                      badgesHtml += `<span class='badge' style='background:#3498db; color:#fff;'>New Launch</span>`;
+                    }
+                    if (labelName.includes("Lakhs") || labelName.includes("Crore")) {
+                      priceHtml = `&#8377; ${labelName}`;
+                    }
+                  });
+                }
+
+                html += `
+                  <article class='property-card' data-aos='fade-up'>
+                    <div class='property-image'>
+                      <a href='${link}'><img src='${imgUrl}' alt='${title}'/></a>
+                      <div class='property-meta'>${badgesHtml}</div>
+                    </div>
+                    <div class='property-info'>
+                      ${priceHtml ? `<div class='prop-price'>${priceHtml}</div>` : ''}
+                      <h3><a href='${link}'>${title}</a></h3>
+                      <p>${snippet}</p>
+                      <a class='view-btn' href='${link}'>View Details</a>
+                    </div>
+                  </article>
+                `;
+              });
+            } else {
+              html = '<p style="text-align:center; grid-column: 1 / -1;">No properties available right now.</p>';
+            }
+            document.getElementById('premium-properties-grid').innerHTML = html;
+          })
+          .catch(error => console.error("Error fetching properties:", error));
+        });
+        //]]>
+      </script>
+
+    <b:else/>
+      <div class='blogPts'>
+        <b:loop values='data:posts' var='post'>
+          <article class='property-card' data-aos='fade-up'>
+            <b:if cond='data:post.featuredImage'>
+              <div class='property-image'>
+                <a expr:href='data:post.url.canonical'>
+                  <img decoding='async' expr:alt='data:post.title' expr:src='data:post.featuredImage' loading='lazy'/>
+                </a>
+                <div class='property-meta'>
+                  <b:loop values='data:post.labels' var='label'>
+                    <b:if cond='data:label.name in {&quot;Plots&quot;, &quot;Building&quot;, &quot;Apartments&quot;, &quot;Office Spaces&quot;, &quot;Rental Properties&quot;, &quot;Ware Houses Sale&quot;, &quot;High ROI Layout&quot;, &quot;Parcel Land&quot;, &quot;Agricultural Land&quot;}'>
+                      <span class='badge type-badge'><data:label.name/></span>
+                    </b:if>
+                    <b:if cond='data:label.name in {&quot;Corner Plot&quot;, &quot;Near Highway&quot;, &quot;DTCP&quot;}'>
+                      <span class='badge' style='background:#1abc9c; color:#fff;'><data:label.name/></span>
+                    </b:if>
+                    <b:if cond='data:label.name == &quot;Status:Sold&quot;'>
+                      <span class='badge sold'>Sold Out</span>
+                    </b:if>
+                    <b:if cond='data:label.name == &quot;Status:Available&quot;'>
+                      <span class='badge' style='background:#2ecc71; color:#fff;'>Available</span>
+                    </b:if>
+                    <b:if cond='data:label.name == &quot;Hot Deal&quot;'>
+                      <span class='badge' style='background:#ff6b00; color:#fff;'>Hot Deal</span>
+                    </b:if>
+                    <b:if cond='data:label.name == &quot;New Launch&quot;'>
+                      <span class='badge' style='background:#3498db; color:#fff;'>New Launch</span>
+                    </b:if>
+                  </b:loop>
+                </div>
+              </div>
+            </b:if>
+            <div class='property-info'>
+              <b:if cond='data:post.labels'>
+                <div class='prop-price'>
+                  <b:loop values='data:post.labels' var='label'>
+                    <b:if cond='data:label.name contains &quot;Lakhs&quot; or data:label.name contains &quot;Crore&quot;'>
+                       &#8377; <data:label.name/>
+                    </b:if>
+                  </b:loop>
+                </div>
+              </b:if>
+              <h3><a expr:href='data:post.url.canonical'><data:post.title/></a></h3>
+              <p><b:eval expr='snippet(data:post.snippets.long, {length: 120, links: false, linebreaks: false})'/></p>
+              <a class='view-btn' expr:href='data:post.url.canonical'>View Details</a>
+            </div>
+          </article>
+        </b:loop>
+      </div>
+      
+      <b:if cond='!data:posts.empty'>
+        <div style='display:flex; justify-content:center; gap: 20px; margin: 40px 0;'>
+          <b:if cond='data:newerPageUrl'><a expr:href='data:newerPageUrl.canonical' style='padding: 10px 20px; background: #1a1a2e; color: #fff; border-radius: 4px;'>&#171; Newer</a></b:if>
+          <b:if cond='data:olderPageUrl'><a expr:href='data:olderPageUrl.canonical' style='padding: 10px 20px; background: #1a1a2e; color: #fff; border-radius: 4px;'>Older &#187;</a></b:if>
+        </div>
+      </b:if>
+    </b:if>
+
+  <b:else/>
+    <b:loop values='data:posts' var='post'>
+      <b:include data='post' name='post'/>
+    </b:loop>
+  </b:if>
+
+</b:includable>
+                <b:includable id='aboutPostAuthor'>
+  <div class='author-name'>
+    <a class='g-profile' expr:href='data:post.author.profileUrl' rel='author' title='author profile'>
+      <span>
+        <data:post.author.name/>
+      </span>
+    </a>
+  </div>
+  <div>
+    <span class='author-desc'>
+      <data:post.author.aboutMe/>
+    </span>
+  </div>
+</b:includable>
+                <b:includable id='addComments'>
+  <a expr:href='data:post.commentsUrl' expr:onclick='data:post.commentsUrlOnclick'>
+    <b:message name='messages.postAComment'/>
+  </a>
+</b:includable>
+                <b:includable id='blogThisShare'>
+  <b:with value='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=270,width=475\&quot;); return false;&quot;' var='onclick'>
+    <b:include name='platformShare'/>
+  </b:with>
+</b:includable>
+                <b:includable id='bylineByName' var='byline'>
+  <b:switch var='data:byline.name'>
+  <b:case value='share'/>
+    <b:include cond='data:post.shareUrl' name='postShareButtons'/>
+  <b:case value='comments'/>
+    <b:include cond='data:post.allowComments' name='postCommentsLink'/>
+  <b:case value='location'/>
+    <b:include cond='data:post.location' name='postLocation'/>
+  <b:case value='timestamp'/>
+    <b:include cond='not data:view.isPage' name='postTimestamp'/>
+  <b:case value='author'/>
+    <b:include name='postAuthor'/>
+  <b:case value='labels'/>
+    <b:include cond='data:post.labels' name='postLabels'/>
+  <b:case value='icons'/>
+    <b:include cond='data:post.emailPostUrl' name='emailPostIcon'/>
+  </b:switch>
+</b:includable>
+                <b:includable id='bylineRegion' var='regionItems'>
+  <b:loop values='data:regionItems' var='byline'>
+    <b:include data='byline' name='bylineByName'/>
+  </b:loop>
+</b:includable>
+                <b:includable id='commentAuthorAvatar'>
+  <div class='avatar-image-container'>
+    <img class='author-avatar' expr:src='data:comment.authorAvatarSrc' height='35' width='35'/>
+  </div>
+</b:includable>
+                <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <b:if cond='data:showCmtPopup'>
+      <div class='goog-toggle-button'>
+        <div class='goog-inline-block comment-action-icon'/>
+      </div>
+    <b:else/>
+      <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:messages.deleteComment'>
+        <img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+                <b:includable id='commentForm' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <h4 id='comment-post-message'><data:messages.postAComment/></h4>
+    <b:if cond='data:this.messages.blogComment != &quot;&quot;'>
+      <p><data:this.messages.blogComment/></p>
+    </b:if>
+    <b:include data='post' name='commentFormIframeSrc'/>
+    <iframe allowtransparency='allowtransparency' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight ?: &quot;90px&quot;' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+                <b:includable id='commentFormIframeSrc' var='post'>
+  <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+</b:includable>
+                <b:includable id='commentItem' var='comment'>
+  <div class='comment' expr:id='&quot;c&quot; + data:comment.id'>
+    <b:include cond='data:blog.enabledCommentProfileImages' name='commentAuthorAvatar'/>
+
+    <div class='comment-block'>
+      <div class='comment-author'>
+        <b:if cond='data:comment.authorUrl'>
+          <b:message name='messages.authorSaidWithLink'>
+            <b:param expr:value='data:comment.author' name='authorName'/>
+            <b:param expr:value='data:comment.authorUrl' name='authorUrl'/>
+          </b:message>
+        <b:else/>
+          <b:message name='messages.authorSaid'>
+            <b:param expr:value='data:comment.author' name='authorName'/>
+          </b:message>
+        </b:if>
+      </div>
+      <div expr:class='&quot;comment-body&quot; + (data:comment.isDeleted ? &quot; deleted&quot; : &quot;&quot;)'>
+        <data:comment.body/>
+      </div>
+      <div class='comment-footer'>
+        <span class='comment-timestamp'>
+          <a expr:href='data:comment.url' title='comment permalink'>
+            <data:comment.timestamp/>
+          </a>
+          <b:include data='comment' name='commentDeleteIcon'/>
+        </span>
+      </div>
+    </div>
+  </div>
+</b:includable>
+                <b:includable id='commentList' var='comments'>
+  <div id='comments-block'>
+    <b:loop values='data:comments' var='comment'>
+      <b:include data='comment' name='commentItem'/>
+    </b:loop>
+  </div>
+</b:includable>
+                <b:includable id='commentPicker' var='post'>
+  <b:if cond='data:post.showThreadedComments'>
+    <b:include data='post' name='threadedComments'/>
+  <b:else/>
+    <b:include data='post' name='comments'/>
+  </b:if>
+</b:includable>
+                <b:includable id='comments' var='post'>
+  <section expr:class='&quot;comments&quot; + (data:post.embedCommentForm ? &quot; embed&quot; : &quot;&quot;)' expr:data-num-comments='data:post.numberOfComments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+
+      <b:include name='commentsTitle'/>
+
+      <div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+        <b:include cond='data:post.comments' data='post.comments' name='commentList'/>
+      </div>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <div class='paging-control-container'>
+          <b:if cond='data:post.hasOlderLinks'>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+              <data:messages.oldest/>
+            </a>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+              <data:messages.older/>
+            </a>
+          </b:if>
+
+          <span class='comment-range-text'>
+            <data:post.commentRangeText/>
+          </span>
+
+          <b:if cond='data:post.hasNewerLinks'>
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+              <data:messages.newer/>
+            </a>
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+              <data:messages.newest/>
+            </a>
+          </b:if>
+        </div>
+      </b:if>
+
+      <div class='footer'>
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+            <b:include data='post' name='commentForm'/>
+          <b:else/>
+            <data:post.noNewCommentsText/>
+          </b:if>
+        <b:else/>
+          <b:if cond='data:post.allowComments'>
+            <b:include data='post' name='addComments'/>
+          </b:if>
+        </b:if>
+      </div>
+    </b:if>
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='allowtransparency' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+  </section>
+</b:includable>
+                <b:includable id='commentsLink'>
+  <a class='comment-link' expr:href='data:post.commentsUrl' expr:onclick='data:post.commentsUrlOnclick'>
+    <b:if cond='data:post.numberOfComments &gt; 0'>
+      <b:message name='messages.numberOfComments'>
+        <b:param expr:value='data:post.numberOfComments' name='numComments'/>
+      </b:message>
+    <b:else/>
+      <data:messages.postAComment/>
+    </b:if>
+  </a>
+</b:includable>
+                <b:includable id='commentsLinkIframe'>
+  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+                <b:includable id='commentsTitle'>
+  <h3 class='title'><data:messages.comments/></h3>
+</b:includable>
+                <b:includable id='defaultAdUnit'>
+  <ins class='adsbygoogle' data-ad-format='auto' expr:data-ad-client='data:adClientId ?: data:blog.adsenseClientId' expr:data-ad-host='data:blog.adsenseHostId' expr:style='data:style ?: &quot;display: block;&quot;'>
+    <b:attr cond='not data:blog.analytics4' expr:value='data:blog.analyticsAccountNumber' name='data-analytics-uacct'/>
+  </ins>
+  <script>
+   (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</b:includable>
+                <b:includable id='emailPostIcon'>
+  <span class='byline post-icons'>
+    <!-- email post links -->
+    <span class='item-action'>
+      <a expr:href='data:post.emailPostUrl' expr:title='data:messages.emailPost'>
+        <b:include data='{ iconClass: &quot;touch-icon sharing-icon&quot; }' name='emailIcon'/>
+      </a>
+    </span>
+  </span>
+</b:includable>
+                <b:includable id='facebookShare'>
+  <b:with value='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=430,width=640\&quot;); return false;&quot;' var='onclick'>
+    <b:include name='platformShare'/>
+  </b:with>
+</b:includable>
+                <b:includable id='feedLinks'>
+  <b:if cond='!data:view.isPost'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+  <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.allowComments and data:post.feedLinks'>
+          <b:include data='post.feedLinks' name='feedLinksBody'/>
+        </b:if>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+                <b:includable id='feedLinksBody' var='links'>
+  <div class='feed-links'>
+  <data:messages.subscribeTo/>
+  <b:loop values='data:links' var='f'>
+     <a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+  </b:loop>
+  </div>
+</b:includable>
+                <b:includable id='footerBylines'>
+  <b:if cond='data:widgets.Blog.first.footerBylines'>
+    <b:loop index='i' values='data:widgets.Blog.first.footerBylines' var='region'>
+      <b:if cond='not data:region.items.empty'>
+        <div expr:class='&quot;post-footer-line post-footer-line-&quot; + (data:i + 1)'>
+          <b:with value='&quot;footer-&quot; + (data:i + 1)' var='regionName'>
+            <b:include data='region.items' name='bylineRegion'/>
+          </b:with>
+        </div>
+      </b:if>
+    </b:loop>
+  </b:if>
+</b:includable>
+                <b:includable id='googlePlusShare'>
+</b:includable>
+                <b:includable id='headerByline'>
+  <b:if cond='data:widgets.Blog.first.headerByline'>
+    <div class='post-header'>
+      <div class='post-header-line-1'>
+        <b:with value='&quot;header-1&quot;' var='regionName'>
+          <b:include data='data:widgets.Blog.first.headerByline.items' name='bylineRegion'/>
+        </b:with>
+      </div>
+    </div>
+  </b:if>
+</b:includable>
+                <b:includable id='homePageLink'>
+  <a class='home-link' expr:href='data:blog.homepageUrl'>
+    <data:messages.home/>
+  </a>
+</b:includable>
+                <b:includable id='iframeComments' var='post'>
+  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+                <b:includable id='inlineAd' var='post'>
+  <b:if cond='!data:view.isPreview'>
+    <b:if cond='data:this.adCode or data:this.adClientId or data:blog.adsenseClientId'>
+      <!-- Ad -->
+      <div class='inline-ad'>
+        <b:if cond='data:this.adCode != &quot;&quot;'>
+          <data:this.adCode/>
+        <b:else/>
+          <b:include cond='data:this.adClientId or data:blog.adsenseClientId' name='defaultAdUnit'/>
+        </b:if>
+      </div>
+    </b:if>
+  <b:else/>
+    <div class='inline-ad'>
+      <div class='inline-ad-placeholder'>
+        <span><b:message name='messages.adsGoHere'/></span>
+      </div>
+    </div>
+  </b:if>
+</b:includable>
+                <b:includable id='linkShare'>
+  <b:with value='&quot;window.prompt(\&quot;Copy to clipboard: Ctrl+C, Enter\&quot;, \&quot;&quot; + data:originalUrl + &quot;\&quot;); return false;&quot;' var='onclick'>
+    <b:include name='platformShare'/>
+  </b:with>
+</b:includable>
+                <b:includable id='nextPageLink'>
+  <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:messages.olderPosts'>
+    <data:messages.olderPosts/>
+  </a>
+</b:includable>
+                <b:includable id='otherSharingButton'>
+  <span class='sharing-platform-button sharing-element-other' expr:aria-label='data:messages.shareToOtherApps.escaped' expr:data-url='data:originalUrl' expr:title='data:messages.shareToOtherApps.escaped' role='menuitem' tabindex='-1'>
+    <b:with value='{key: &quot;sharingOther&quot;}' var='platform'>
+      <b:include name='sharingPlatformIcon'/>
+    </b:with>
+    <span class='platform-sharing-text'><data:messages.shareOtherApps.escaped/></span>
+  </span>
+</b:includable>
+                <b:includable id='platformShare'>
+  <a expr:class='&quot;goog-inline-block sharing-&quot; + data:platform.key' expr:data-url='data:originalUrl' expr:href='data:shareUrl + &quot;&amp;target=&quot; + data:platform.target' expr:onclick='data:onclick ? data:onclick : &quot;&quot;' expr:title='data:platform.shareMessage' target='_blank'>
+    <span class='share-button-link-text'>
+      <data:platform.shareMessage/>
+    </span>
+  </a>
+</b:includable>
+                <b:includable id='post' var='post'>
+  <div class='post'>
+    <b:include data='post' name='postMeta'/>
+    <b:include data='post' name='postTitle'/>
+    <b:include name='headerByline'/>
+    <b:if cond='data:view.isSingleItem'>
+      <b:include data='post' name='postBody'/>
+    <b:else/>
+      <b:include data='post' name='postBodySnippet'/>
+      <b:include data='post' name='postJumpLink'/>
+    </b:if>
+    <b:include data='post' name='postFooter'/>
+  </div>
+</b:includable>
+                <b:includable id='postAuthor'>
+  <span class='byline post-author vcard'>
+    <span class='post-author-label'>
+      <data:byline.label/>
+    </span>
+    <span class='fn'>
+      <b:if cond='data:post.author.profileUrl'>
+        <meta expr:content='data:post.author.profileUrl'/>
+        <a class='g-profile' expr:href='data:post.author.profileUrl' rel='author' title='author profile'>
+          <span><data:post.author.name/></span>
+        </a>
+      <b:else/>
+        <span><data:post.author.name/></span>
+      </b:if>
+    </span>
+  </span>
+</b:includable>
+                <b:includable id='postBody' var='post'>
+                  <div class='post-body entry-content float-container' expr:data-post-title='data:post.title' expr:id='&quot;post-body-&quot; + data:post.id'>
+                    <data:post.body/>
+                  </div>
+                </b:includable>
+                <b:includable id='postBodySnippet' var='post'>
+                  <b:include data='post' name='postBody'/>
+                </b:includable>
+                <b:includable id='postCommentsAndAd' var='post'/>
+                <b:includable id='postCommentsLink'/>
+                <b:includable id='postFooter' var='post'/>
+                <b:includable id='postFooterAuthorProfile' var='post'/>
+                <b:includable id='postHeader' var='post'/>
+                <b:includable id='postJumpLink' var='post'/>
+                <b:includable id='postLabels'/>
+                <b:includable id='postLocation'/>
+                <b:includable id='postMeta' var='post'/>
+                <b:includable id='postMetadataJSONImage'/>
+                <b:includable id='postMetadataJSONPublisher'/>
+                <b:includable id='postPagination'/>
+                <b:includable id='postReactions'/>
+                <b:includable id='postShareButtons'/>
+                <b:includable id='postTimestamp'/>
+                <b:includable id='postTitle' var='post'/>
+                <b:includable id='previousPageLink'/>
+                <b:includable id='sharingButton'/>
+                <b:includable id='sharingButtonContent'/>
+                <b:includable id='sharingButtons'/>
+                <b:includable id='sharingButtonsMenu'/>
+                <b:includable id='sharingPlatformIcon'/>
+                <b:includable id='threadedCommentForm' var='post'/>
+                <b:includable id='threadedCommentJs' var='post'/>
+                <b:includable id='threadedComments' var='post'/>
+                <b:includable id='tooltipCss'/>
+              </b:widget>
+            </b:section>
+          </main>
+          
+          <aside class='sidebar-widget-area' data-aos='fade-left' data-aos-delay='300'>
+            <b:section id='sidebar-right' showaddelement='true'>
+              <b:widget id='HTML99' locked='false' title='Request Details' type='HTML' version='2' visible='true'>
+                <b:widget-settings>
+                  <b:widget-setting name='content'><![CDATA[<div class="sidebar-widget">
+                       <h3>Request Info</h3>
+                       <input id="sbName" type="text" placeholder="Your Name"/>
+                       <input id="sbPhone" type="tel" placeholder="WhatsApp Number"/>
+                       <select id="sbType">
+                         <option value="" />I am looking for...
+                         <option value="Residential Plot" />Residential Plot
+                         <option value="Commercial Space" />Commercial Space
+                         <option value="Property Valuation" />Property Valuation
+                       </select>
+                       <button onclick="submitSidebarLead()">Get Expert Advice</button>
+                     </div>
+                     <script>
+                       function submitSidebarLead() {
+                         let name = document.getElementById('sbName').value;
+                         let phone = document.getElementById('sbPhone').value;
+                         let type = document.getElementById('sbType').value;
+                         if(name && phone) {
+                           let waMsg = "Hi, I am " + name + ". I am looking for " + type + ". My number is " + phone;
+                           window.open("https://wa.me/917373036360?text=" + encodeURIComponent(waMsg), '_blank');
+                         } else { alert('Please enter name and phone number.'); }
+                       }
+                     </script>]]></b:widget-setting>
+                </b:widget-settings>
+                <b:includable id='main'>
+                   <div class='widget-content'><data:content/></div>
+                 </b:includable>
+              </b:widget>
+              <b:widget id='PageList1' locked='false' title='Visit here' type='PageList' visible='true'>
+                <b:widget-settings>
+                  <b:widget-setting name='pageListJson'><![CDATA[{"5395391815758116918":{"href":"https://kkomc.blogspot.com/p/properties.html","position":0,"title":"Properties"}}]]></b:widget-setting>
+                  <b:widget-setting name='homeTitle'>Home</b:widget-setting>
+                </b:widget-settings>
+                <b:includable id='main'>
+  <b:include name='widget-title'/>
+  <b:include name='content'/>
+</b:includable>
+                <b:includable id='content'>
+  <div class='widget-content'>
+    <b:include name='pageList'/>
+  </div>
+</b:includable>
+                <b:includable id='overflowButton'>
+  <b:include name='verticalMoreIcon'/>
+</b:includable>
+                <b:includable id='overflowablePageList'>
+  <div class='overflowable-container'>
+    <div class='overflowable-contents'>
+      <div class='container'>
+        <b:with value='true' var='overflow'>
+        <b:with value='&quot;tabs&quot;' var='pageListClass'>
+          <b:include name='pageList'/>
+        </b:with>
+        </b:with>
+      </div>
+    </div>
+    <div class='overflow-button hidden'>
+      <b:include name='overflowButton'/>
+    </div>
+  </div>
+</b:includable>
+                <b:includable id='pageLink'>
+  <li>
+    <b:class cond='data:overflow' name='overflowable-item'/>
+    <b:class cond='data:link.isCurrentPage' name='selected'/>
+
+    <a expr:href='data:link.href'><data:link.title/></a>
+  </li>
+</b:includable>
+                <b:includable id='pageList'>
+  <ul>
+    <b:class cond='data:pageListClass' expr:name='data:pageListClass'/>
+    <b:loop values='data:links' var='link'>
+      <b:include name='pageLink'/>
+    </b:loop>
+  </ul>
+</b:includable>
+              </b:widget>
+              <b:widget id='HTML97' locked='false' title='Sidebar AdSense Banner' type='HTML' version='2' visible='true'>
+                <b:widget-settings>
+                  <b:widget-setting name='content'><![CDATA[<script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4724455892440922" crossorigin="anonymous"></script>
+<!-- OMC Sidebar -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4724455892440922"
+     data-ad-slot="4515428293"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>]]></b:widget-setting>
+                </b:widget-settings>
+                <b:includable id='main'>
+                  <div class='sidebar-widget sticky-sidebar-ad' style='text-align: center; padding: 15px;'>
+                    <span style='display: block; font-size: 11px; color: #aaa; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;'>Advertisement</span>
+                    <div class='widget-content'>
+                      <data:content/>
+                    </div>
+                  </div>
+                </b:includable>
+              </b:widget>
+            </b:section>
+          </aside>
+
+        </div>
+      </div> 
+      </b:if>
+    </div>
+
+    <b:if cond='data:view.isHomepage'> 
+      <section class='seo-hub-section'>
+        <div class='secIn'>
+          <div class='section-header' data-aos='fade-up'>
+            <h2 class='dark-text'>Trichy Property Knowledge Hub</h2>
+            <div class='section-line'/>
+          </div>
+          <div class='seo-grid'>
+            <a class='seo-link-card' data-aos='fade-up' href='/search?q=DTCP%20approval%20guide'>
+              <strong>DTCP Approval Guide</strong>
+              <span>Clear approval checks for plots, layouts, and document verification.</span>
+            </a>
+            <a class='seo-link-card' data-aos='fade-up' data-aos-delay='80' href='/search?q=property%20registration%20charges%20Tamil%20Nadu'>
+              <strong>Registration Charges</strong>
+              <span>Stamp duty, registration cost, and buyer-ready document planning.</span>
+            </a>
+            <a class='seo-link-card' data-aos='fade-up' data-aos-delay='160' href='/search?q=CMDA%20vs%20DTCP'>
+              <strong>CMDA vs DTCP</strong>
+              <span>Understand planning approvals before buying land or buildings.</span>
+            </a>
+            <a class='seo-link-card' data-aos='fade-up' data-aos-delay='240' href='/search?q=real%20estate%20valuation%20Trichy'>
+              <strong>Real Estate Valuation</strong>
+              <span>Market value, guideline value, bank valuation, and ROI basics.</span>
+            </a>
+            <a class='seo-link-card' data-aos='fade-up' data-aos-delay='320' href='/search?q=home%20loan%20eligibility%20property'>
+              <strong>Home Loan Eligibility</strong>
+              <span>Finance-ready guidance for property buyers and investors.</span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class='roi-tools-section'>
+        <div class='secIn'>
+          <div class='section-header' data-aos='fade-up'>
+            <h2 class='dark-text'>Investment Tools</h2>
+            <div class='section-line'/>
+          </div>
+          <div class='tools-grid'>
+            <div class='tool-panel' data-aos='fade-up'>
+              <h3>ROI Calculator</h3>
+              <label for='roiBuy'>Purchase Price</label>
+              <input id='roiBuy' inputmode='decimal' placeholder='Example: 2500000' type='number'/>
+              <label for='roiValue'>Expected Value</label>
+              <input id='roiValue' inputmode='decimal' placeholder='Example: 3200000' type='number'/>
+              <label for='roiYears'>Holding Years</label>
+              <input id='roiYears' inputmode='decimal' placeholder='Example: 3' type='number'/>
+              <button onclick='calculateROI()'>Calculate ROI</button>
+              <div class='roi-result' id='roiResult'/>
+            </div>
+            <div class='tool-panel' data-aos='fade-up' data-aos-delay='120'>
+              <h3>Property Comparison</h3>
+              <label for='compareName'>Property Name</label>
+              <input id='compareName' placeholder='Example: K.K. Nagar Plot' type='text'/>
+              <label for='comparePrice'>Price</label>
+              <input id='comparePrice' inputmode='decimal' placeholder='Example: 2500000' type='number'/>
+              <label for='compareArea'>Area / Sq.ft</label>
+              <input id='compareArea' inputmode='decimal' placeholder='Example: 1200' type='number'/>
+              <button onclick='addCompareRow()'>Add to Compare</button>
+              <div class='compare-result' id='compareResult'>Add two properties to compare price per sq.ft.</div>
+              <table class='compare-table' id='compareTable'>
+                <thead><tr><th>Property</th><th>Price</th><th>Area</th><th>Per Sq.ft</th></tr></thead>
+                <tbody/>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class='video-proof-section'>
+        <div class='secIn video-proof'>
+          <a class='video-shell' data-aos='zoom-in' href='https://wa.me/917373036360?text=I%20want%20a%20property%20video%20walkthrough' target='_blank'>
+            <span class='video-play'><span>&#9658;</span></span>
+          </a>
+          <div class='video-copy' data-aos='fade-left'>
+            <div class='section-header' style='text-align:left; margin-bottom:18px;'>
+              <h2 class='dark-text'>Video Walkthroughs &amp; Site Visits</h2>
+              <div class='section-line' style='margin-left:0;'/>
+            </div>
+            <p>Book drone-style walkthroughs, location previews, and assisted site visits for shortlisted properties across Trichy.</p>
+            <a class='hero-btn' href='https://wa.me/917373036360?text=I%20want%20a%20site%20visit%20and%20walkthrough%20video' style='margin-top:10px;'>Request Walkthrough</a>
+          </div>
+        </div>
+      </section>
+
+      <section class='construction-trust'>
+        <div class='secIn'>
+          <div class='section-header' data-aos='fade-up'>
+            <h2>Construction &amp; Engineering Excellence</h2>
+            <div class='section-line'/>
+            <p style='color:#aaa; margin-top:15px; font-size:16px;'>We utilize Grade-A materials (Dalmia, JSW, Tata Steel) and follow strict structural safety protocols. From 3D elevation to key handover, our in-house civil engineers manage everything.</p>
+          </div>
+          <div class='const-grid'>
+            <div class='const-card' data-aos='fade-up' data-aos-delay='100'>
+              <h3>10+</h3>
+              <p>Projects Delivered</p>
+            </div>
+            <div class='const-card' data-aos='fade-up' data-aos-delay='200'>
+              <h3>Vastu</h3>
+              <p>Compliant Designs</p>
+            </div>
+            <div class='const-card' data-aos='fade-up' data-aos-delay='300'>
+              <h3>Quality</h3>
+              <p>Grade-A Materials</p>
+            </div>
+            <div class='const-card' data-aos='fade-up' data-aos-delay='400'>
+              <h3>100%</h3>
+              <p>Transparent Legal Checks</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class='great-features'>
+        <div class='secIn'>
+          <div class='section-header' data-aos='fade-up'>
+            <h2>OUR GREAT FEATURES</h2>
+            <div class='section-line'/>
+          </div>
+          <div class='gf-grid'>
+            
+            <div class='gf-left' data-aos='fade-right'>
+              <div class='gf-item'>
+                <div class='gf-icon'>📣</div>
+                <div class='gf-text'>
+                  <h3>Client-Centric Property Advisory</h3>
+                  <p>We help you identify high-growth locations in Trichy with personalized guidance for residential and commercial investments.</p>
+                </div>
+              </div>
+              <div class='gf-item'>
+                <div class='gf-icon'>🚀</div>
+                <div class='gf-text'>
+                  <h3>Smart and Scalable Investment Options</h3>
+                  <p>From budget-friendly plots to premium developments, our solutions adapt to your financial goals and future ROI expectations.</p>
+                </div>
+              </div>
+              <div class='gf-item'>
+                <div class='gf-icon'>🎧</div>
+                <div class='gf-text'>
+                  <h3>End-to-End Property Assistance</h3>
+                  <p>From site visits to documentation, our expert team supports you at every stage of your real estate journey.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class='gf-center' data-aos='zoom-in'>
+              <img alt='Om Muruga Proprietor' decoding='async' loading='lazy' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1BcSQh2lpJu2BQR1D3Ch60Kk9dfV9-7yAC-lH52Uh2aNZDPgJW4nnB6LT9863CEsf-fh79CbrCzc4iw3CR_jfiMKbepVrushNQYrEJmzayVNL1ilPN9qYyC61MhlfRMlpS6H0rv8dc3HHPY-o8c8Sm4paBjTPdF5svfsObQoi3CwGjO91AHissFvW19c/w478-h640/photo_2025-12-01_02-41-38.png'/>
+            </div>
+
+            <div class='gf-right' data-aos='fade-left'>
+              <div class='gf-item'>
+                <div class='gf-icon'>🛒</div>
+                <div class='gf-text'>
+                  <h3>Hassle-Free Purchase Process</h3>
+                  <p>We ensure smooth transactions with complete support in registration, legal verification, and documentation.</p>
+                </div>
+              </div>
+              <div class='gf-item'>
+                <div class='gf-icon'>&#9881;</div>
+                <div class='gf-text'>
+                  <h3>Certified Valuation and Compliance</h3>
+                  <p>Get accurate property valuation and legal clarity backed by IBBI-certified expertise and market insights.</p>
+                </div>
+              </div>
+              <div class='gf-item'>
+                <div class='gf-icon'>💎</div>
+                <div class='gf-text'>
+                  <h3>Access Anywhere, Anytime</h3>
+                  <p>Explore properties, book site visits, and connect with us seamlessly across mobile, desktop, and WhatsApp.</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+      <section class='tab-parent'>
+        <div class='secIn'>
+          <div class='bow'>
+            <div class='breedum sbreed' data-aos='fade-up'>  
+              <div class='sring'>
+                <div class='widget-content'>
+                  <img alt='Om Muruga Services' decoding='async' loading='lazy' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbLMtocGfZGzqHh45PsroZt1a6TwxzPUR3RpRwl5fr_REdxlb22oeQjJcCM_DZwVKLoDECz-HVIfJiaJSNhehekOwIYjmKRLybzwty4UdBpRPbVQO9SNz5mLeZldcf2B0KCqgn26MCGm5cTTd4slLcM9GzDmu_8x4uDFYMlOmfB_JUG0Y4rNQyqVkDfu0/w510-h640/Gemini_Generated_Image_plvrmeplvrmeplvr%20(1).png'/>
+                </div>
+              </div>
+            </div>
+            <div class='breedum' data-aos='fade-up' data-aos-delay='100'>
+              <div class='dring'>
+                <svg viewBox='0 0 512.001 512.001'><path d='M256,1.468L0,254.587h39.984v255.946h432.034V254.587h39.984L256,1.468z M352.154,304.139 c-22.058,22.058-54.801,26.918-81.569,14.583L142.243,447.065l-17.739-17.739l-6.039-29.438l116.644-116.644 c-12.334-26.768-7.475-59.51,14.583-81.569c28.295-28.294,74.169-28.294,102.463,0 C380.448,229.97,380.448,275.844,352.154,304.139z'/><circle cx='314.86' cy='238.974' r='23.303'/></svg>
+                <div class='tesign-bot'>
+                  <h2>Property Valuation</h2>
+                  <div class='tesign-text'>Professional valuation by an IBBI-registered valuer to help you know the true market value of your property.</div>
+                </div>
+              </div>
+              <div class='dring'>
+                <svg viewBox='0 0 24 24'><path d='M12 2C6.486 2 2 6.486 2 12v4.143C2 17.167 2.897 18 4 18h1a1 1 0 0 0 1-1v-5.143a1 1 0 0 0-1-1h-.908C4.648 6.987 7.978 4 12 4s7.352 2.987 7.908 6.857H19a1 1 0 0 0-1 1V18c0 1.103-.897 2-2 2h-2v-1h-4v3h6c2.206 0 4-1.794 4-4 1.103 0 2-.833 2-1.857V12c0-5.514-4.486-10-10-10z'/></svg>
+                <div class='tesign-bot'>
+                  <h2>Handpicked Properties</h2>
+                  <div class='tesign-text'>Curated residential and commercial plots with clear titles and DTCP approvals, verified through rigorous document scrutiny.</div>
+                </div>
+              </div>
+            </div>
+            <div class='breedum' data-aos='fade-up' data-aos-delay='200'>
+              <div class='dring'>
+                <svg fill='none' viewBox='0 0 24 24'><path clip-rule='evenodd' d='M15.9 4.5C15.9 3 14.418 2 13.26 2c-.806 0-.869.612-.993 1.82-.055.53-.121 1.174-.267 1.93-.386 2.002-1.72 4.56-2.996 5.325V17C9 19.25 9.75 20 13 20h3.773c2.176 0 2.703-1.433 2.899-1.964l.013-.036c.114-.306.358-.547.638-.82.31-.306.664-.653.927-1.18.311-.623.27-1.177.233-1.67-.023-.299-.044-.575.017-.83.064-.27.146-.475.225-.671.143-.356.275-.686.275-1.329 0-1.5-.748-2.498-2.315-2.498H15.5S15.9 6 15.9 4.5zM5.5 10A1.5 1.5 0 0 0 4 11.5v7a1.5 1.5 0 0 0 3 0v-7A1.5 1.5 0 0 0 5.5 10z' fill='var(--mainC)' fill-rule='evenodd'/></svg>
+                <div class='tesign-bot'>
+                  <h2>Expert Guidance</h2>
+                  <div class='tesign-text'>End-to-end consulting on buying, selling, and investing in Trichy and nearby markets, backed by 100+ transactions.</div>
+                </div>
+              </div>
+              <div class='dring'>
+                <svg fill='var(--linkC)' viewBox='0 0 24 24'><path d='M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z'/></svg>
+                <div class='tesign-bot'>
+                  <h2>Finance Assistance</h2>
+                  <div class='tesign-text'>Support for home loans and project finance with expert documentation guidance and direct bank coordination.</div>
+                </div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </section>
+
+      <section class='vision-mission-section'>
+        <div class='secIn'>
+           <div class='vm-grid'>
+              <div class='vm-image' data-aos='zoom-in'>
+                <img alt='Vision and Mission' decoding='async' loading='lazy' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw0h2FBdS4CcwUfUo9htR9D4-HzSSIpAfEWRmCtrbEZUB-aeNYGy6s4ZM5b5Jwbzc1B7x32-mC1pGmzC7z_NWJ1n-zu4kQb1tIsz_yYRMSkj4YbpKxuqJzRYBlhPi97hWqGz6hymwTihf8s2LE75Kv1mW9mL2tDAE6LQCtF6Up7n0acajzBK83aZFQ3_w/w640-h358/Gemini_Generated_Image_j7j04yj7j04yj7j0.png'/>
+              </div>
+              <div class='vm-content' data-aos='fade-left'>
+                <h3>VISION &amp; MISSION</h3>
+                
+                <div class='vm-block'>
+                  <h4>🎯 Our Vision</h4>
+                  <p>To be Tamil Nadu&#39;s most trusted partner for real estate, construction, and property valuation, transforming every client&#39;s dream of secure, beautiful, and legally sound property ownership into reality with integrity and precision.</p>
+                </div>
+                
+                <div class='vm-block'>
+                  <h4>💼 Our Mission</h4>
+                  <p>&#10003; To guide clients through every step of buying, building, and valuing property with transparent advice, accurate valuation, and clear legal verification, so they feel safe and supported at every decision point.</p>
+                  <p>&#10003; To design and construct durable, well-planned homes and projects that respect budgets, timelines, and local regulations while delivering long-term comfort, beauty.</p>
+                </div>
+              </div>
+           </div>
+        </div>
+      </section>
+
+      <section class='testimonials-section'>
+        <div class='secIn'>
+          <div class='section-header' data-aos='fade-up'>
+            <h2 class='dark-text'>What Our Clients Say</h2>
+            <div class='section-line'/>
+          </div>
+          
+          <div class='testimonial-slider-wrap'>
+            <div class='testimonial-slider' data-aos='fade-up'>
+              <div class='testi-item'>
+                <p>&quot;Om Muruga Construction helped us find the perfect plot. Clear documents and an extremely transparent process!&quot;</p>
+                <h4>- Ramesh K., Trichy</h4>
+              </div>
+              <div class='testi-item'>
+                <p>&quot;Their civil estimation is highly accurate. My house construction stayed perfectly within budget.&quot;</p>
+                <h4>- Priya M., Srirangam</h4>
+              </div>
+              <div class='testi-item'>
+                <p>&quot;Very professional IBBI registered valuers. Delivered the exact report on time for my bank loan processing.&quot;</p>
+                <h4>- Karthik S., Thillai Nagar</h4>
+              </div>
+              <div class='testi-item'>
+                <p>&quot;Bought a DTCP approved plot. They handled all the registration work smoothly. Highly recommended team.&quot;</p>
+                <h4>- Vijay T., Karumandapam</h4>
+              </div>
+              <div class='testi-item'>
+                <p>&quot;The best real estate group in Trichy. Honest, reliable, and legally perfect. True engineering excellence.&quot;</p>
+                <h4>- Lakshmi R., K.K. Nagar</h4>
+              </div>
+            </div>
+          </div>
+          
+          <div class='testi-controls'>
+            <button onclick='prevTesti()'>&#8249; Prev</button>
+            <button onclick='nextTesti()'>Next &#8250;</button>
+          </div>
+          
+        </div>
+      </section>
+
+      <section class='b-client b-gradient'>
+        <div class='secIn'>
+          <div class='counter-container' data-aos='zoom-in'>
+            <div class='counter-wrapper'>
+              <div class='counter'>
+                <div class='counter-icon'>🏠</div>
+                <span class='timer' data-speed='2000' data-to='120' id='houses-sold'>0</span>
+                <p class='counter-title'>Plot / House Sold</p>
+              </div>
+              <div class='counter'>
+                <div class='counter-icon'>🌳</div>
+                <span class='timer' data-speed='2500' data-to='45' id='land-acquisition'>0</span>
+                <p class='counter-title'>Land Acquisition</p>
+              </div>
+              <div class='counter'>
+                <div class='counter-icon'>🏢</div>
+                <span class='timer' data-speed='2500' data-to='28' id='commercial-sold'>0</span>
+                <p class='counter-title'>Commercial Space</p>
+              </div>
+              <div class='counter'>
+                <div class='counter-icon'>😊</div>
+                <span class='timer' data-speed='1500' data-to='320' id='happy-buyers'>0</span>
+                <p class='counter-title'>Happy Buyers</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </b:if>       
+        
+    <footer>
+      <div class='secIn'>
+        <div style='max-width: 700px; margin: 0 auto; margin-bottom: 30px;'>
+          <h3 style='color:#d4af37; margin-bottom:15px; font-size:24px;'>Om Muruga Group</h3>
+          <p style='color:#fff; font-size:16px; line-height:1.6;'>Ready to invest in your future? Om Muruga Construction offers expert-guided real estate solutions, from property valuation to complete construction management. Connect with us for personalized consultation on your next property investment.</p>
+        </div>
+        
+        <b:section class='menu-footer' id='footer-links' maxwidgets='1' showaddelement='false'>
+          <b:widget id='LinkList2' locked='true' title='Footer Links' type='LinkList' version='2' visible='true'>
+            <b:widget-settings>
+              <b:widget-setting name='link-3'>https://kkomc.blogspot.com/p/disclaimer.html</b:widget-setting>
+              <b:widget-setting name='sorting'>NONE</b:widget-setting>
+              <b:widget-setting name='link-4'>https://kkomc.blogspot.com/p/terms-and-conditions.html</b:widget-setting>
+              <b:widget-setting name='text-1'>Our Agents</b:widget-setting>
+              <b:widget-setting name='link-1'>https://kkomc.blogspot.com/p/our-team-om-muruga-construction-expert.html</b:widget-setting>
+              <b:widget-setting name='text-0'>Contact Us</b:widget-setting>
+              <b:widget-setting name='link-2'>https://kkomc.blogspot.com/p/privacy-policy.html</b:widget-setting>
+              <b:widget-setting name='text-3'>Disclaimer</b:widget-setting>
+              <b:widget-setting name='link-0'>https://kkomc.blogspot.com/p/contact-us.html</b:widget-setting>
+              <b:widget-setting name='text-2'>Privacy Policy</b:widget-setting>
+              <b:widget-setting name='text-4'>Terms and Conditions</b:widget-setting>
+            </b:widget-settings>
+            <b:includable id='main'>
+              <ul class='footer-links'>
+                <li><a href='https://kkomc.blogspot.com/p/contact-us.html'>Contact Us</a></li>
+                <li><a href='https://kkomc.blogspot.com/p/our-team-om-muruga-construction-expert.html'>Our Agents</a></li>
+                <li><a href='https://kkomc.blogspot.com/p/privacy-policy.html'>Privacy Policy</a></li>
+                <li><a href='https://kkomc.blogspot.com/p/disclaimer.html'>Disclaimer</a></li>
+                <li><a href='https://kkomc.blogspot.com/p/terms-and-conditions.html'>Terms and Conditions</a></li>
+              </ul>
+            </b:includable>
+            <b:includable id='content'>
+ <div class='widget-content'>
+   <ul>
+     <b:loop values='data:links' var='link'>
+       <li><a expr:href='data:link.target'><data:link.name/></a></li>
+     </b:loop>
+   </ul>
+ </div>
+</b:includable>
+          </b:widget>
+        </b:section>
+        
+        <div class='pred'>
+          &#169; Copyright <span id='current-year'/> <bdi><data:blog.title/></bdi>. 
+          <script>document.getElementById(&#39;current-year&#39;).textContent = new Date().getFullYear();</script>
+          <br/><br/>
+          <span>Engineered by <strong>Om Muruga IT Division</strong></span>
+        </div>
+      </div>
+    </footer>
+
+    <div class='submit-popup-overlay' id='submitPopup'>
+      <div class='submit-popup'>
+        <span class='close-submit-popup' onclick='closeSubmitPopup()'>&#10006;</span>
+        <h2 style='text-align:center; font-family:var(--fontH); margin-bottom:15px; color:#1a1a2e;'>List Your Property</h2>
+        <iframe frameborder='0' height='500' marginheight='0' marginwidth='0' src='https://docs.google.com/forms/d/e/1FAIpQLSeVpnvOhu4om_yAoKi7jTIsz9j8mtXsH1dMUDlxXW2svIegtg/viewform?embedded=true' width='100%'>Loading&#8230;</iframe>
+      </div>
+    </div>
+
+    <div class='exit-popup-overlay' id='exitPopupOverlay'>
+      <div class='exit-popup'>
+        <div class='close-popup' onclick='closeLeadPopup()'>&#10006;</div>
+        <h2>Download Trichy Property Investment Guide</h2>
+        <p>Get exclusive access to pre-market plots and commercial spaces in Trichy before anyone else.</p>
+        <select id='leadBudget'>
+          <option value=''>Select Budget Range</option>
+          <option value='Under 20 Lakhs'>Under 20 Lakhs</option>
+          <option value='20-50 Lakhs'>20-50 Lakhs</option>
+          <option value='50+ Lakhs'>50+ Lakhs</option>
+        </select>
+        <input id='leadName' placeholder='Your Full Name' type='text'/>
+        <input id='leadPhone' placeholder='WhatsApp Number' type='tel'/>
+        <button onclick='submitLead()'>Send Guide &amp; Details</button>
+        <p style='font-size: 11px; margin-top: 15px; opacity: 0.6;'>By clicking, you agree to receive property updates via WhatsApp.</p>
+      </div>
+    </div>    
+
+    <div class='sticky-cta'>
+      <a href='tel:+917373036360' onclick='if(typeof gtag !== &quot;undefined&quot;) gtag(&quot;event&quot;, &quot;click&quot;, { event_category: &quot;CTA&quot;, event_label: &quot;Sticky Call Button&quot; });'>📞 Call Now</a>
+    </div>
+
+    <div class='floating-tools'>
+      <a class='float-btn btn-wa' href='https://wa.me/917373036360?text=I%20want%20property%20details' target='_blank' title='WhatsApp'>
+        <svg fill='currentColor' height='30' viewBox='0 0 24 24' width='30'><path d='M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.67-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.076 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421-7.403h-.004c-1.48 0-2.926-.474-4.09-1.36l-.293-.179-3.038.797.814-2.972-.192-.303C2.705 4.847 2.064 3.488 2.064 2.041 2.063.496 3.558-.41 5.3.145 6.765.614 8.108 1.705 9 3.167 9.896 1.705 11.239.614 12.704.145c1.742-.555 3.237.351 3.237 1.896 0 1.447-.641 2.806-1.778 3.858l-.19.159c-1.165.886-2.611 1.36-4.091 1.36z'/></svg>
+      </a>
+    </div>
+
+    <script type='text/javascript'>
+      //<![CDATA[
+
+      function loadAOS() {
+        if (window.AOS) {
+          window.AOS.init({ once: true, offset: 120, duration: 800, easing: 'ease-in-out' });
+          return;
+        }
+        if (document.getElementById('aosScript')) return;
+        var aosScript = document.createElement('script');
+        aosScript.id = 'aosScript';
+        aosScript.src = 'https://unpkg.com/aos@2.3.4/dist/aos.js';
+        aosScript.defer = true;
+        aosScript.onload = function() {
+          if (window.AOS) window.AOS.init({ once: true, offset: 120, duration: 800, easing: 'ease-in-out' });
+        };
+        document.body.appendChild(aosScript);
+      }
+
+      ['scroll', 'mousemove', 'touchstart', 'keydown'].forEach(function(evt) {
+        window.addEventListener(evt, loadAOS, { once: true, passive: true });
+      });
+      setTimeout(loadAOS, 2500);
+
+      (function installPwaShell() {
+        try {
+          var manifest = {
+            name: 'Om Muruga Group of Companies',
+            short_name: 'Om Muruga',
+            start_url: '/',
+            scope: '/',
+            display: 'standalone',
+            background_color: '#1a1a2e',
+            theme_color: '#1a1a2e',
+            icons: [{
+              src: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFAj8iQ6WBw9Y2EjsLVcwUPydEA7NkviK_vYwFjV72sJRXa6LgjGeG5IpE6LUu5gCDylo9N-uADF3x3SeOSSfy0r05HE_29nfKuEUoxmnS5GZuKZErWozA0-gMyEYitWLbJQ7JnmzcaFEU_WkBnxFfGNhXaeM0WcmYd5bCzToaomT1p35NEXGLovZpdPg/s4350/PNG.png',
+              sizes: '512x512',
+              type: 'image/png',
+              purpose: 'any maskable'
+            }]
+          };
+          var blob = new Blob([JSON.stringify(manifest)], { type: 'application/manifest+json' });
+          var link = document.createElement('link');
+          link.rel = 'manifest';
+          link.href = URL.createObjectURL(blob);
+          document.head.appendChild(link);
+          if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function() {
+              navigator.serviceWorker.register('/sw.js').catch(function() {});
+            });
+          }
+        } catch (e) {}
+      })();
+
+      window.onscroll = function() {
+        let winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        let height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        let scrolled = (winScroll / height) * 100;
+        let bar = document.getElementById("myBar");
+        if(bar) bar.style.width = scrolled + "%";
+      };
+
+      document.addEventListener("click", function(e){
+        let menu = document.getElementById("menu-nav-menu");
+        let btn = document.querySelector(".mobile-menu-btn");
+        if (menu && btn && !menu.contains(e.target) && !btn.contains(e.target)) {
+          menu.classList.remove("show-mobile-menu");
+        }
+      });
+
+      function openSubmitPopup() { document.getElementById("submitPopup").style.display="block"; }
+      function closeSubmitPopup() { document.getElementById("submitPopup").style.display="none"; }
+
+      // Updated Search Engine (Proper Multiple Labels Support)
+      function executePropertyFilter() {
+        let type = document.getElementById('propertyType').value;
+        let keyword = document.getElementById('searchKeyword').value.trim();
+        
+        // 1. Always force the search to look for Properties
+        let query = 'label:"Property"'; 
+        
+        // 2. Add the Location label if they typed one
+        if (keyword) {
+          query += ' label:"' + keyword + '"';
+        }
+        
+        // 3. Add the Type label if they selected one
+        if (type) {
+          query += ' label:"' + type + '"';
+        }
+        
+        // 4. Send tracking data and execute the search!
+        if(typeof gtag !== 'undefined') gtag('event', 'search', { search_term: keyword + " " + type });
+        window.location.href = "/search?q=" + encodeURIComponent(query);
+      }
+
+      function escapeHTML(value) {
+        return String(value || '').replace(/[&<>"']/g, function(ch) {
+          return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[ch];
+        });
+      }
+
+      function setupInstantSearch() {
+        var input = document.getElementById('searchKeyword');
+        var results = document.getElementById('instantSearchResults');
+        if (!input || !results || !window.fetch) return;
+        var timer;
+        input.addEventListener('input', function() {
+          var query = input.value.trim();
+          clearTimeout(timer);
+          if (query.length < 2) {
+            results.classList.remove('active');
+            results.innerHTML = '';
+            return;
+          }
+          timer = setTimeout(function() {
+            fetch('/feeds/posts/summary?q=' + encodeURIComponent(query) + '&alt=json&max-results=5')
+              .then(function(response) { return response.json(); })
+              .then(function(data) {
+                var entries = data.feed && data.feed.entry ? data.feed.entry : [];
+                if (!entries.length) {
+                  results.innerHTML = '<div class="instant-empty">No matching property found.</div>';
+                  results.classList.add('active');
+                  return;
+                }
+                results.innerHTML = entries.map(function(entry) {
+                  var title = entry.title ? entry.title.$t : 'Property';
+                  var link = (entry.link || []).find(function(item) { return item.rel === 'alternate'; });
+                  var img = entry.media$thumbnail ? entry.media$thumbnail.url.replace('/s72-c/', '/s160/') : 'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9';
+                  var summary = entry.summary ? entry.summary.$t.replace(/<[^>]*>/g, '').substring(0, 74) : 'View property details';
+                  return '<a class="instant-result" href="' + escapeHTML(link ? link.href : '#') + '"><img loading="lazy" decoding="async" src="' + escapeHTML(img) + '" alt="' + escapeHTML(title) + '"/><span><strong>' + escapeHTML(title) + '</strong><span>' + escapeHTML(summary) + '</span></span></a>';
+                }).join('');
+                results.classList.add('active');
+              })
+              .catch(function() {
+                results.classList.remove('active');
+              });
+          }, 260);
+        });
+      }
+
+      function calculateROI() {
+        var buy = parseFloat(document.getElementById('roiBuy').value) || 0;
+        var value = parseFloat(document.getElementById('roiValue').value) || 0;
+        var years = parseFloat(document.getElementById('roiYears').value) || 1;
+        var result = document.getElementById('roiResult');
+        if (!result) return;
+        if (!buy || !value) {
+          result.textContent = 'Enter purchase price and expected value.';
+          return;
+        }
+        var totalReturn = ((value - buy) / buy) * 100;
+        var annualReturn = totalReturn / Math.max(years, 1);
+        result.textContent = 'Total ROI: ' + totalReturn.toFixed(1) + '% | Annualized estimate: ' + annualReturn.toFixed(1) + '%';
+      }
+
+      function addCompareRow() {
+        var name = document.getElementById('compareName').value.trim() || 'Property';
+        var price = parseFloat(document.getElementById('comparePrice').value) || 0;
+        var area = parseFloat(document.getElementById('compareArea').value) || 0;
+        var tbody = document.querySelector('#compareTable tbody');
+        var result = document.getElementById('compareResult');
+        if (!tbody || !result) return;
+        if (!price || !area) {
+          result.textContent = 'Enter price and area to compare.';
+          return;
+        }
+        var perSqft = price / area;
+        var row = document.createElement('tr');
+        row.innerHTML = '<td>' + escapeHTML(name) + '</td><td>Rs. ' + price.toLocaleString() + '</td><td>' + area.toLocaleString() + '</td><td>Rs. ' + perSqft.toFixed(0) + '</td>';
+        tbody.appendChild(row);
+        result.textContent = 'Comparison updated. Lower per sq.ft can indicate better value after legal checks.';
+      }
+
+      function openLeadPopup() { document.getElementById('exitPopupOverlay').style.display = 'block'; }
+      function closeLeadPopup() { document.getElementById('exitPopupOverlay').style.display = 'none'; }
+
+      setTimeout(function() {
+        if (!sessionStorage.getItem('leadPopupShown')) {
+          openLeadPopup();
+          sessionStorage.setItem('leadPopupShown', 'true');
+        }
+      }, 15000);
+
+      function submitLead() {
+        let name = document.getElementById('leadName').value;
+        let phone = document.getElementById('leadPhone').value;
+        let budget = document.getElementById('leadBudget').value;
+        
+        if(name && phone) {
+          const googleAppScriptUrl = "https://script.google.com/macros/s/AKfycbxlPhXdpbx-D7dtOR4DUOQsyf8eWAwvODL-6BErY1pUMKVnxKVbzVgkY3n9t3zYPLHT7Q/exec";
+          
+          fetch(googleAppScriptUrl, {
+            method: "POST", mode: 'no-cors',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({name: name, phone: phone, budget: budget, source: 'Homepage Search Intent Lead'})
+          });
+          
+          let waMessage = "Hi Om Muruga Construction, I am " + name + ". I am looking for property details. My budget is " + budget + ".";
+          let waUrl = "https://wa.me/917373036360?text=" + encodeURIComponent(waMessage);
+          closeLeadPopup();
+          window.open(waUrl, '_blank');
+        } else {
+          alert('Please enter your name and WhatsApp number to proceed.');
+        }
+      }
+
+      let testiIndex = 0;
+      let testiTimer;
+      
+      function showTestimonial() {
+        const testiItems = document.querySelectorAll('.testi-item');
+        if(!testiItems.length) return;
+        testiItems.forEach((item) => {
+          item.style.transform = "translateX(" + (-testiIndex * 100) + "%)";
+        });
+      }
+
+      function nextTesti() {
+        const testiItems = document.querySelectorAll('.testi-item');
+        if(!testiItems.length) return;
+        testiIndex++;
+        if (testiIndex >= testiItems.length) testiIndex = 0;
+        showTestimonial();
+        resetTestiTimer();
+      }
+
+      function prevTesti() {
+        const testiItems = document.querySelectorAll('.testi-item');
+        if(!testiItems.length) return;
+        testiIndex--;
+        if (testiIndex < 0) testiIndex = testiItems.length - 1;
+        showTestimonial();
+        resetTestiTimer();
+      }
+
+      function resetTestiTimer() {
+        clearInterval(testiTimer);
+        testiTimer = setInterval(nextTesti, 4000);
+      }
+      
+      (function() {
+        function animateCounter(element, finalValue) {
+          if (element.classList.contains('counted')) return;
+          element.classList.add('counted');
+          const speed = parseInt(element.getAttribute('data-speed')) || 2000;
+          const increment = finalValue / (speed / 16); 
+          let current = 0;
+          const timer = setInterval(function() {
+            current += increment;
+            if (current >= finalValue) { current = finalValue; clearInterval(timer); }
+            element.textContent = Math.floor(current).toLocaleString();
+          }, 16);
+        }
+        
+        document.addEventListener('DOMContentLoaded', function() {
+          const testiItems = document.querySelectorAll('.testi-item');
+          if(testiItems.length > 0) { resetTestiTimer(); }
+          setupInstantSearch();
+
+          if ('IntersectionObserver' in window) {
+            const observer = new IntersectionObserver(entries => {
+              entries.forEach(entry => {
+                if(entry.isIntersecting){
+                  animateCounter(entry.target, parseInt(entry.target.dataset.to));
+                }
+              });
+            });
+            document.querySelectorAll('.timer').forEach(el => observer.observe(el));
+          } else {
+            document.querySelectorAll('.timer').forEach(el => animateCounter(el, parseInt(el.dataset.to)));
+          }
+          
+          let postBody = document.querySelector('.post-body.entry-content');
+          let galleryContainer = document.getElementById('property-gallery-container');
+          
+          if (postBody) {
+              let images = postBody.querySelectorAll('img');
+              let title = postBody.getAttribute('data-post-title') || document.title.replace(/\|.*/, '').trim() || 'Om Muruga Property';
+              images.forEach(function(img, index) {
+                  img.classList.remove('hidden-original');
+                  if (img.parentElement && img.parentElement.tagName === 'A') {
+                      img.parentElement.style.display = '';
+                  }
+                  img.setAttribute('loading', 'lazy');
+                  img.setAttribute('decoding', 'async');
+                  if (!img.getAttribute('alt')) img.setAttribute('alt', title + ' image ' + (index + 1));
+                  if (!img.getAttribute('title')) img.setAttribute('title', img.getAttribute('alt'));
+                  if (!img.getAttribute('width') && img.naturalWidth) img.setAttribute('width', img.naturalWidth);
+                  if (!img.getAttribute('height') && img.naturalHeight) img.setAttribute('height', img.naturalHeight);
+                  img.addEventListener('load', function() {
+                    if (!img.getAttribute('width') && img.naturalWidth) img.setAttribute('width', img.naturalWidth);
+                    if (!img.getAttribute('height') && img.naturalHeight) img.setAttribute('height', img.naturalHeight);
+                  }, { once: true });
+                  if (galleryContainer && index > 0) {
+                      let clonedImg = img.cloneNode(true);
+                      galleryContainer.appendChild(clonedImg);
+                  }
+              });
+
+              let paragraphs = Array.prototype.slice.call(postBody.querySelectorAll('p')).filter(function(p) {
+                return p.textContent.trim().length > 70 && !p.closest('.in-article-ad');
+              });
+              let insertedAds = 0;
+              paragraphs.forEach(function(paragraph, index) {
+                if ((index + 1) % 4 === 0 && insertedAds < 3) {
+                  let ad = document.createElement('div');
+                  ad.className = 'in-article-ad';
+                  ad.innerHTML = '<span class="ad-label">Advertisement</span><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-client="ca-pub-4724455892440922" data-ad-slot="4515428293" data-ad-layout="in-article" data-ad-format="fluid"></ins>';
+                  paragraph.parentNode.insertBefore(ad, paragraph.nextSibling);
+                  insertedAds++;
+                }
+              });
+              for (let i = 0; i < insertedAds; i++) {
+                try { (adsbygoogle = window.adsbygoogle || []).push({}); } catch(e) {}
+              }
+
+              let faqItems = [];
+              let faqCandidates = Array.prototype.slice.call(postBody.querySelectorAll('h2,h3,h4,p'));
+              faqCandidates.forEach(function(node) {
+                let question = node.textContent.trim();
+                if (faqItems.length >= 6 || question.indexOf('?') === -1 || question.length > 140) return;
+                let answerNode = node.nextElementSibling;
+                while (answerNode && !answerNode.textContent.trim()) answerNode = answerNode.nextElementSibling;
+                let answer = answerNode ? answerNode.textContent.trim().replace(/\s+/g, ' ').substring(0, 420) : '';
+                if (answer.length > 30) {
+                  faqItems.push({
+                    '@type': 'Question',
+                    name: question,
+                    acceptedAnswer: { '@type': 'Answer', text: answer }
+                  });
+                }
+              });
+              if (faqItems.length && !document.getElementById('autoFaqSchema')) {
+                let schema = document.createElement('script');
+                schema.type = 'application/ld+json';
+                schema.id = 'autoFaqSchema';
+                schema.text = JSON.stringify({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqItems });
+                document.head.appendChild(schema);
+              }
+          }
+          
+        });
+      })();
+
+    //]]>          
+      
+    </script>    
+  </body>
+</html>
